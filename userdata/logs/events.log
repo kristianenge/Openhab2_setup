@@ -1,0 +1,1762 @@
+2015-10-07 09:42:23 - Thing 'yahooweather:weather:berlin' has been added.
+2015-10-07 09:42:23 - 'yahooweather:weather:berlin' updated: INITIALIZING
+2015-10-07 09:42:23 - 'yahooweather:weather:berlin' changed from UNINITIALIZED to INITIALIZING
+2015-10-07 09:42:23 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 09:42:23 - 'yahooweather:weather:berlin' changed from INITIALIZING to ONLINE
+2015-10-07 09:42:23 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 09:42:28 - 'yahooweather:weather:berlin' updated: UNINITIALIZED (HANDLER_INITIALIZING_ERROR)
+2015-10-07 09:42:28 - 'yahooweather:weather:berlin' changed from ONLINE to UNINITIALIZED (HANDLER_INITIALIZING_ERROR)
+2015-10-07 09:42:28 - Thing 'astro:sun:home' has been added.
+2015-10-07 09:42:28 - 'astro:sun:home' updated: INITIALIZING
+2015-10-07 09:42:28 - 'astro:sun:home' changed from UNINITIALIZED to INITIALIZING
+2015-10-07 09:42:28 - 'astro:sun:home' updated: ONLINE
+2015-10-07 09:42:28 - 'astro:sun:home' changed from INITIALIZING to ONLINE
+2015-10-07 09:42:33 - 'astro:sun:home' updated: UNINITIALIZED (HANDLER_INITIALIZING_ERROR)
+2015-10-07 09:42:33 - 'astro:sun:home' changed from ONLINE to UNINITIALIZED (HANDLER_INITIALIZING_ERROR)
+2015-10-07 09:42:33 - Link 'Weather_Temperature-yahooweather:weather:berlin:temperature' has been added.
+2015-10-07 09:42:33 - Link 'Sun_Elevation-astro:sun:home:position#elevation' has been added.
+2015-10-07 09:42:45 - Light_GF_Living_Table updated to ON
+2015-10-07 09:42:45 - Light_GF_Living_Table changed from NULL to ON
+2015-10-07 09:42:45 - Light_GF_Corridor_Ceiling updated to OFF
+2015-10-07 09:42:45 - Light_GF_Corridor_Ceiling changed from NULL to OFF
+2015-10-07 09:42:45 - Light_GF_Kitchen_Ceiling updated to ON
+2015-10-07 09:42:45 - Light_GF_Kitchen_Ceiling changed from NULL to ON
+2015-10-07 09:42:45 - Light_GF_Kitchen_Table updated to ON
+2015-10-07 09:42:45 - Light_GF_Kitchen_Table changed from NULL to ON
+2015-10-07 09:42:45 - Light_GF_Corridor_Wardrobe updated to ON
+2015-10-07 09:42:45 - Light_GF_Corridor_Wardrobe changed from NULL to ON
+2015-10-07 09:42:45 - Light_GF_Toilet_Ceiling updated to OFF
+2015-10-07 09:42:45 - Light_GF_Toilet_Ceiling changed from NULL to OFF
+2015-10-07 09:42:45 - Light_GF_Toilet_Mirror updated to OFF
+2015-10-07 09:42:45 - Light_GF_Toilet_Mirror changed from NULL to OFF
+2015-10-07 09:42:45 - Light_FF_Bath_Ceiling updated to OFF
+2015-10-07 09:42:45 - Light_FF_Bath_Mirror updated to ON
+2015-10-07 09:42:45 - Light_FF_Bath_Ceiling changed from NULL to OFF
+2015-10-07 09:42:45 - Light_FF_Corridor_Ceiling updated to ON
+2015-10-07 09:42:45 - Light_FF_Office_Ceiling updated to OFF
+2015-10-07 09:42:45 - Light_FF_Bath_Mirror changed from NULL to ON
+2015-10-07 09:42:45 - Light_FF_Child_Ceiling updated to ON
+2015-10-07 09:42:45 - Light_FF_Corridor_Ceiling changed from NULL to ON
+2015-10-07 09:42:45 - Light_FF_Bed_Ceiling updated to OFF
+2015-10-07 09:42:45 - Light_C_Corridor_Ceiling updated to OFF
+2015-10-07 09:42:45 - Light_C_Staircase updated to OFF
+2015-10-07 09:42:45 - Light_FF_Office_Ceiling changed from NULL to OFF
+2015-10-07 09:42:45 - Light_C_Washing_Ceiling updated to OFF
+2015-10-07 09:42:45 - Light_FF_Child_Ceiling changed from NULL to ON
+2015-10-07 09:42:45 - Light_C_Workshop updated to OFF
+2015-10-07 09:42:45 - Light_Garden_Garage updated to OFF
+2015-10-07 09:42:45 - Light_FF_Bed_Ceiling changed from NULL to OFF
+2015-10-07 09:42:45 - Light_C_Corridor_Ceiling changed from NULL to OFF
+2015-10-07 09:42:45 - Light_C_Staircase changed from NULL to OFF
+2015-10-07 09:42:45 - Light_Garden_Terrace updated to ON
+2015-10-07 09:42:45 - Light_C_Washing_Ceiling changed from NULL to OFF
+2015-10-07 09:42:45 - Heating_GF_Corridor updated to OFF
+2015-10-07 09:42:45 - Heating_GF_Toilet updated to OFF
+2015-10-07 09:42:45 - Heating_GF_Living updated to OFF
+2015-10-07 09:42:45 - Heating_GF_Kitchen updated to OFF
+2015-10-07 09:42:45 - Light_C_Workshop changed from NULL to OFF
+2015-10-07 09:42:45 - Heating_FF_Bath updated to ON
+2015-10-07 09:42:45 - Heating_FF_Office updated to OFF
+2015-10-07 09:42:45 - Heating_FF_Child updated to OFF
+2015-10-07 09:42:45 - Light_Garden_Garage changed from NULL to OFF
+2015-10-07 09:42:45 - Heating_FF_Bed updated to OFF
+2015-10-07 09:42:45 - Temperature_Setpoint updated to 22
+2015-10-07 09:42:45 - Light_Garden_Terrace changed from NULL to ON
+2015-10-07 09:42:45 - Window_GF_Frontdoor updated to OPEN
+2015-10-07 09:42:45 - Window_GF_Kitchen updated to OPEN
+2015-10-07 09:42:45 - Window_GF_Living updated to OPEN
+2015-10-07 09:42:45 - Window_GF_Toilet updated to CLOSED
+2015-10-07 09:42:45 - Window_FF_Bath updated to OPEN
+2015-10-07 09:42:45 - Window_FF_Bed updated to OPEN
+2015-10-07 09:42:45 - Window_FF_Office_Window updated to OPEN
+2015-10-07 09:42:45 - Window_FF_Office_Door updated to CLOSED
+2015-10-07 09:42:45 - Garage_Door updated to OPEN
+2015-10-07 09:42:45 - Heating_GF_Corridor changed from NULL to OFF
+2015-10-07 09:42:45 - DemoLocation updated to 52.5200066,13.4049540
+2015-10-07 09:42:45 - Heating_GF_Toilet changed from NULL to OFF
+2015-10-07 09:42:45 - Temperature_GF_Corridor updated to 21.4
+2015-10-07 09:42:45 - Temperature_GF_Toilet updated to 18.5
+2015-10-07 09:42:45 - Temperature_GF_Living updated to 20.0
+2015-10-07 09:42:45 - Heating_GF_Living changed from NULL to OFF
+2015-10-07 09:42:45 - Temperature_GF_Kitchen updated to 19.2
+2015-10-07 09:42:45 - Temperature_FF_Bath updated to 17.8
+2015-10-07 09:42:45 - Temperature_FF_Office updated to 22.2
+2015-10-07 09:42:45 - Temperature_FF_Child updated to 21.4
+2015-10-07 09:42:45 - Heating_GF_Kitchen changed from NULL to OFF
+2015-10-07 09:42:45 - Temperature_FF_Bed updated to 19.2
+2015-10-07 09:42:45 - Heating_FF_Bath changed from NULL to ON
+2015-10-07 09:42:45 - Heating_FF_Office changed from NULL to OFF
+2015-10-07 09:42:45 - Heating_FF_Child changed from NULL to OFF
+2015-10-07 09:42:45 - Heating_FF_Bed changed from NULL to OFF
+2015-10-07 09:42:45 - Temperature_Setpoint changed from NULL to 22
+2015-10-07 09:42:45 - Window_GF_Frontdoor changed from NULL to OPEN
+2015-10-07 09:42:45 - Window_GF_Kitchen changed from NULL to OPEN
+2015-10-07 09:42:45 - Window_GF_Living changed from NULL to OPEN
+2015-10-07 09:42:45 - Window_GF_Toilet changed from NULL to CLOSED
+2015-10-07 09:42:45 - Window_FF_Bath changed from NULL to OPEN
+2015-10-07 09:42:45 - Window_FF_Bed changed from NULL to OPEN
+2015-10-07 09:42:45 - Window_FF_Office_Window changed from NULL to OPEN
+2015-10-07 09:42:45 - Window_FF_Office_Door changed from NULL to CLOSED
+2015-10-07 09:42:45 - Garage_Door changed from NULL to OPEN
+2015-10-07 09:42:45 - DemoLocation changed from NULL to 52.5200066,13.4049540
+2015-10-07 09:42:45 - Temperature_GF_Corridor changed from NULL to 21.4
+2015-10-07 09:42:45 - Temperature_GF_Toilet changed from NULL to 18.5
+2015-10-07 09:42:45 - Temperature_GF_Living changed from NULL to 20.0
+2015-10-07 09:42:45 - Temperature_GF_Kitchen changed from NULL to 19.2
+2015-10-07 09:42:45 - Temperature_FF_Bath changed from NULL to 17.8
+2015-10-07 09:42:45 - Temperature_FF_Office changed from NULL to 22.2
+2015-10-07 09:42:45 - Temperature_FF_Child changed from NULL to 21.4
+2015-10-07 09:42:45 - Temperature_FF_Bed changed from NULL to 19.2
+2015-10-07 09:43:23 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 09:43:23 - 'yahooweather:weather:berlin' changed from UNINITIALIZED (HANDLER_INITIALIZING_ERROR) to ONLINE
+2015-10-07 09:43:23 - Weather_Temperature updated to 14
+2015-10-07 09:43:23 - Weather_LastUpdate updated to 2015-10-07T09:43:23
+2015-10-07 09:43:23 - Weather_Temperature changed from NULL to 14
+2015-10-07 09:43:23 - Weather_Temp_Max updated to 14
+2015-10-07 09:43:23 - Weather_Temp_Min updated to 14
+2015-10-07 09:43:23 - Weather_LastUpdate changed from NULL to 2015-10-07T09:43:23
+2015-10-07 09:43:23 - Weather_Temp_Max changed from NULL to 14
+2015-10-07 09:43:23 - Weather_Temp_Min changed from NULL to 14
+2015-10-07 09:44:23 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 09:44:23 - Weather_Temperature updated to 14
+2015-10-07 09:44:23 - Weather_LastUpdate updated to 2015-10-07T09:44:23
+2015-10-07 09:44:23 - Weather_LastUpdate changed from 2015-10-07T09:43:23 to 2015-10-07T09:44:23
+2015-10-07 09:45:00 - Temperature_GF_Corridor updated to 22.0
+2015-10-07 09:45:00 - Temperature_GF_Toilet updated to 22.1
+2015-10-07 09:45:00 - Temperature_GF_Living updated to 22.1
+2015-10-07 09:45:00 - Temperature_GF_Kitchen updated to 20.1
+2015-10-07 09:45:00 - Temperature_FF_Bath updated to 17.6
+2015-10-07 09:45:00 - Temperature_FF_Office updated to 20.1
+2015-10-07 09:45:00 - Temperature_FF_Child updated to 19.7
+2015-10-07 09:45:00 - Temperature_GF_Corridor changed from 21.4 to 22.0
+2015-10-07 09:45:00 - Temperature_GF_Toilet changed from 18.5 to 22.1
+2015-10-07 09:45:00 - Temperature_GF_Living changed from 20.0 to 22.1
+2015-10-07 09:45:00 - Temperature_GF_Kitchen changed from 19.2 to 20.1
+2015-10-07 09:45:00 - Temperature_FF_Bath changed from 17.8 to 17.6
+2015-10-07 09:45:00 - Temperature_FF_Office changed from 22.2 to 20.1
+2015-10-07 09:45:00 - Temperature_FF_Child changed from 21.4 to 19.7
+2015-10-07 09:45:00 - Temperature_FF_Bed updated to 19.4
+2015-10-07 09:45:00 - Temperature_FF_Bed changed from 19.2 to 19.4
+2015-10-07 09:45:23 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 09:45:23 - Weather_Temperature updated to 14
+2015-10-07 09:45:23 - Weather_LastUpdate updated to 2015-10-07T09:45:23
+2015-10-07 09:45:23 - Weather_LastUpdate changed from 2015-10-07T09:44:23 to 2015-10-07T09:45:23
+2015-10-07 09:46:23 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 09:46:23 - Weather_Temperature updated to 14
+2015-10-07 09:46:23 - Weather_LastUpdate updated to 2015-10-07T09:46:23
+2015-10-07 09:46:23 - Weather_LastUpdate changed from 2015-10-07T09:45:23 to 2015-10-07T09:46:23
+2015-10-07 09:47:22 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 09:47:22 - Weather_Temperature updated to 14
+2015-10-07 09:47:22 - Weather_LastUpdate updated to 2015-10-07T09:47:22
+2015-10-07 09:47:22 - Weather_LastUpdate changed from 2015-10-07T09:46:23 to 2015-10-07T09:47:22
+2015-10-07 09:48:30 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 09:48:30 - Weather_Temperature updated to 14
+2015-10-07 09:48:30 - Weather_LastUpdate updated to 2015-10-07T09:48:30
+2015-10-07 09:48:30 - Weather_LastUpdate changed from 2015-10-07T09:47:22 to 2015-10-07T09:48:30
+2015-10-07 09:49:22 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 09:49:22 - Weather_Temperature updated to 14
+2015-10-07 09:49:22 - Weather_LastUpdate updated to 2015-10-07T09:49:22
+2015-10-07 09:49:22 - Weather_LastUpdate changed from 2015-10-07T09:48:30 to 2015-10-07T09:49:22
+2015-10-07 09:50:00 - Temperature_GF_Corridor updated to 19.9
+2015-10-07 09:50:00 - Temperature_GF_Toilet updated to 20.3
+2015-10-07 09:50:00 - Temperature_GF_Living updated to 21.6
+2015-10-07 09:50:00 - Temperature_GF_Kitchen updated to 17.8
+2015-10-07 09:50:00 - Temperature_FF_Bath updated to 17.8
+2015-10-07 09:50:00 - Temperature_FF_Office updated to 18.3
+2015-10-07 09:50:00 - Temperature_FF_Child updated to 20.8
+2015-10-07 09:50:00 - Temperature_FF_Bed updated to 20.3
+2015-10-07 09:50:00 - Temperature_GF_Corridor changed from 22.0 to 19.9
+2015-10-07 09:50:00 - Temperature_GF_Toilet changed from 22.1 to 20.3
+2015-10-07 09:50:00 - Temperature_GF_Living changed from 22.1 to 21.6
+2015-10-07 09:50:00 - Temperature_GF_Kitchen changed from 20.1 to 17.8
+2015-10-07 09:50:00 - Temperature_FF_Bath changed from 17.6 to 17.8
+2015-10-07 09:50:00 - Temperature_FF_Office changed from 20.1 to 18.3
+2015-10-07 09:50:00 - Temperature_FF_Child changed from 19.7 to 20.8
+2015-10-07 09:50:00 - Temperature_FF_Bed changed from 19.4 to 20.3
+2015-10-07 09:50:22 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 09:50:22 - Weather_Temperature updated to 14
+2015-10-07 09:50:22 - Weather_LastUpdate updated to 2015-10-07T09:50:22
+2015-10-07 09:50:22 - Weather_LastUpdate changed from 2015-10-07T09:49:22 to 2015-10-07T09:50:22
+2015-10-07 09:51:23 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 09:51:23 - Weather_Temperature updated to 14
+2015-10-07 09:51:23 - Weather_LastUpdate updated to 2015-10-07T09:51:23
+2015-10-07 09:51:23 - Weather_LastUpdate changed from 2015-10-07T09:50:22 to 2015-10-07T09:51:23
+2015-10-07 09:52:22 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 09:52:22 - Weather_Temperature updated to 14
+2015-10-07 09:52:22 - Weather_LastUpdate updated to 2015-10-07T09:52:22
+2015-10-07 09:52:22 - Weather_LastUpdate changed from 2015-10-07T09:51:23 to 2015-10-07T09:52:22
+2015-10-07 09:53:23 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 09:53:23 - Weather_Temperature updated to 14
+2015-10-07 09:53:23 - Weather_LastUpdate updated to 2015-10-07T09:53:23
+2015-10-07 09:53:23 - Weather_LastUpdate changed from 2015-10-07T09:52:22 to 2015-10-07T09:53:23
+2015-10-07 09:54:22 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 09:54:22 - Weather_Temperature updated to 14
+2015-10-07 09:54:22 - Weather_LastUpdate updated to 2015-10-07T09:54:22
+2015-10-07 09:54:22 - Weather_LastUpdate changed from 2015-10-07T09:53:23 to 2015-10-07T09:54:22
+2015-10-07 09:55:00 - Temperature_GF_Corridor updated to 22.4
+2015-10-07 09:55:00 - Temperature_GF_Toilet updated to 19.9
+2015-10-07 09:55:00 - Temperature_GF_Living updated to 20.4
+2015-10-07 09:55:00 - Temperature_GF_Kitchen updated to 21.8
+2015-10-07 09:55:00 - Temperature_FF_Bath updated to 21.4
+2015-10-07 09:55:00 - Temperature_FF_Office updated to 17.8
+2015-10-07 09:55:00 - Temperature_FF_Child updated to 21.1
+2015-10-07 09:55:00 - Temperature_FF_Bed updated to 21.6
+2015-10-07 09:55:00 - Temperature_GF_Corridor changed from 19.9 to 22.4
+2015-10-07 09:55:00 - Temperature_GF_Toilet changed from 20.3 to 19.9
+2015-10-07 09:55:00 - Temperature_GF_Living changed from 21.6 to 20.4
+2015-10-07 09:55:00 - Temperature_GF_Kitchen changed from 17.8 to 21.8
+2015-10-07 09:55:00 - Temperature_FF_Bath changed from 17.8 to 21.4
+2015-10-07 09:55:00 - Temperature_FF_Office changed from 18.3 to 17.8
+2015-10-07 09:55:00 - Temperature_FF_Child changed from 20.8 to 21.1
+2015-10-07 09:55:00 - Temperature_FF_Bed changed from 20.3 to 21.6
+2015-10-07 09:55:22 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 09:55:22 - Weather_Temperature updated to 14
+2015-10-07 09:55:22 - Weather_LastUpdate updated to 2015-10-07T09:55:22
+2015-10-07 09:55:22 - Weather_LastUpdate changed from 2015-10-07T09:54:22 to 2015-10-07T09:55:22
+2015-10-07 09:56:22 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 09:56:22 - Weather_Temperature updated to 14
+2015-10-07 09:56:22 - Weather_LastUpdate updated to 2015-10-07T09:56:22
+2015-10-07 09:56:22 - Weather_LastUpdate changed from 2015-10-07T09:55:22 to 2015-10-07T09:56:22
+2015-10-07 09:57:21 - CurrentDate updated to 2015-10-07T09:57:21
+2015-10-07 09:57:21 - CurrentDate changed from NULL to 2015-10-07T09:57:21
+2015-10-07 09:57:22 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 09:57:22 - Weather_Temperature updated to 14
+2015-10-07 09:57:22 - Weather_LastUpdate updated to 2015-10-07T09:57:22
+2015-10-07 09:57:22 - Weather_LastUpdate changed from 2015-10-07T09:56:22 to 2015-10-07T09:57:22
+2015-10-07 09:58:22 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 09:58:22 - Weather_Temperature updated to 14
+2015-10-07 09:58:22 - Weather_LastUpdate updated to 2015-10-07T09:58:22
+2015-10-07 09:58:22 - Weather_LastUpdate changed from 2015-10-07T09:57:22 to 2015-10-07T09:58:22
+2015-10-07 09:59:22 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 09:59:22 - Weather_Temperature updated to 14
+2015-10-07 09:59:22 - Weather_LastUpdate updated to 2015-10-07T09:59:22
+2015-10-07 09:59:22 - Weather_LastUpdate changed from 2015-10-07T09:58:22 to 2015-10-07T09:59:22
+2015-10-07 10:00:00 - Temperature_GF_Corridor updated to 22.1
+2015-10-07 10:00:00 - Temperature_GF_Toilet updated to 22.2
+2015-10-07 10:00:00 - Temperature_GF_Living updated to 22.0
+2015-10-07 10:00:00 - Temperature_GF_Kitchen updated to 18.9
+2015-10-07 10:00:00 - Temperature_FF_Bath updated to 17.6
+2015-10-07 10:00:00 - Temperature_FF_Office updated to 22.0
+2015-10-07 10:00:00 - Temperature_FF_Child updated to 20.1
+2015-10-07 10:00:00 - Temperature_FF_Bed updated to 20.7
+2015-10-07 10:00:00 - Temperature_GF_Corridor changed from 22.4 to 22.1
+2015-10-07 10:00:00 - Temperature_GF_Toilet changed from 19.9 to 22.2
+2015-10-07 10:00:00 - Temperature_GF_Living changed from 20.4 to 22.0
+2015-10-07 10:00:00 - Temperature_GF_Kitchen changed from 21.8 to 18.9
+2015-10-07 10:00:00 - Temperature_FF_Bath changed from 21.4 to 17.6
+2015-10-07 10:00:00 - Temperature_FF_Office changed from 17.8 to 22.0
+2015-10-07 10:00:00 - Temperature_FF_Child changed from 21.1 to 20.1
+2015-10-07 10:00:00 - Temperature_FF_Bed changed from 21.6 to 20.7
+2015-10-07 10:00:22 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 10:00:22 - Weather_Temperature updated to 14
+2015-10-07 10:00:22 - Weather_LastUpdate updated to 2015-10-07T10:00:22
+2015-10-07 10:00:22 - Weather_LastUpdate changed from 2015-10-07T09:59:22 to 2015-10-07T10:00:22
+2015-10-07 10:01:23 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 10:01:23 - Weather_Temperature updated to 14
+2015-10-07 10:01:23 - Weather_LastUpdate updated to 2015-10-07T10:01:23
+2015-10-07 10:01:23 - Weather_LastUpdate changed from 2015-10-07T10:00:22 to 2015-10-07T10:01:23
+2015-10-07 10:02:22 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 10:02:22 - Weather_Temperature updated to 14
+2015-10-07 10:02:22 - Weather_LastUpdate updated to 2015-10-07T10:02:22
+2015-10-07 10:02:22 - Weather_LastUpdate changed from 2015-10-07T10:01:23 to 2015-10-07T10:02:22
+2015-10-07 10:03:22 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 10:03:22 - Weather_Temperature updated to 14
+2015-10-07 10:03:22 - Weather_LastUpdate updated to 2015-10-07T10:03:22
+2015-10-07 10:03:22 - Weather_LastUpdate changed from 2015-10-07T10:02:22 to 2015-10-07T10:03:22
+2015-10-07 10:04:22 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 10:04:22 - Weather_Temperature updated to 14
+2015-10-07 10:04:22 - Weather_LastUpdate updated to 2015-10-07T10:04:22
+2015-10-07 10:04:22 - Weather_LastUpdate changed from 2015-10-07T10:03:22 to 2015-10-07T10:04:22
+2015-10-07 10:05:00 - Temperature_GF_Corridor updated to 19.9
+2015-10-07 10:05:00 - Temperature_GF_Toilet updated to 21.3
+2015-10-07 10:05:00 - Temperature_GF_Living updated to 19.9
+2015-10-07 10:05:00 - Temperature_GF_Kitchen updated to 18.4
+2015-10-07 10:05:00 - Temperature_FF_Bath updated to 18.7
+2015-10-07 10:05:00 - Temperature_FF_Office updated to 21.2
+2015-10-07 10:05:00 - Temperature_GF_Corridor changed from 22.1 to 19.9
+2015-10-07 10:05:00 - Temperature_FF_Child updated to 20.6
+2015-10-07 10:05:00 - Temperature_FF_Bed updated to 18.7
+2015-10-07 10:05:00 - Temperature_GF_Toilet changed from 22.2 to 21.3
+2015-10-07 10:05:00 - Temperature_GF_Living changed from 22.0 to 19.9
+2015-10-07 10:05:00 - Temperature_GF_Kitchen changed from 18.9 to 18.4
+2015-10-07 10:05:00 - Temperature_FF_Bath changed from 17.6 to 18.7
+2015-10-07 10:05:00 - Temperature_FF_Office changed from 22.0 to 21.2
+2015-10-07 10:05:00 - Temperature_FF_Child changed from 20.1 to 20.6
+2015-10-07 10:05:00 - Temperature_FF_Bed changed from 20.7 to 18.7
+2015-10-07 10:05:22 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 10:05:22 - Weather_Temperature updated to 14
+2015-10-07 10:05:22 - Weather_LastUpdate updated to 2015-10-07T10:05:22
+2015-10-07 10:05:22 - Weather_LastUpdate changed from 2015-10-07T10:04:22 to 2015-10-07T10:05:22
+2015-10-07 10:06:23 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 10:06:23 - Weather_Temperature updated to 14
+2015-10-07 10:06:23 - Weather_LastUpdate updated to 2015-10-07T10:06:23
+2015-10-07 10:06:23 - Weather_LastUpdate changed from 2015-10-07T10:05:22 to 2015-10-07T10:06:23
+2015-10-07 10:07:22 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 10:07:22 - Weather_Temperature updated to 14
+2015-10-07 10:07:22 - Weather_LastUpdate updated to 2015-10-07T10:07:22
+2015-10-07 10:07:22 - Weather_LastUpdate changed from 2015-10-07T10:06:23 to 2015-10-07T10:07:22
+2015-10-07 10:08:22 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 10:08:22 - Weather_Temperature updated to 14
+2015-10-07 10:08:22 - Weather_LastUpdate updated to 2015-10-07T10:08:22
+2015-10-07 10:08:22 - Weather_LastUpdate changed from 2015-10-07T10:07:22 to 2015-10-07T10:08:22
+2015-10-07 10:09:22 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 10:09:22 - Weather_Temperature updated to 14
+2015-10-07 10:09:22 - Weather_LastUpdate updated to 2015-10-07T10:09:22
+2015-10-07 10:09:22 - Weather_LastUpdate changed from 2015-10-07T10:08:22 to 2015-10-07T10:09:22
+2015-10-07 10:10:00 - Temperature_GF_Corridor updated to 19.3
+2015-10-07 10:10:00 - Temperature_GF_Toilet updated to 22.4
+2015-10-07 10:10:00 - Temperature_GF_Living updated to 21.8
+2015-10-07 10:10:00 - Temperature_GF_Kitchen updated to 18.6
+2015-10-07 10:10:00 - Temperature_FF_Bath updated to 18.4
+2015-10-07 10:10:00 - Temperature_FF_Office updated to 22.1
+2015-10-07 10:10:00 - Temperature_FF_Child updated to 21.5
+2015-10-07 10:10:00 - Temperature_FF_Bed updated to 20.6
+2015-10-07 10:10:00 - Temperature_GF_Corridor changed from 19.9 to 19.3
+2015-10-07 10:10:00 - Temperature_GF_Toilet changed from 21.3 to 22.4
+2015-10-07 10:10:00 - Temperature_GF_Living changed from 19.9 to 21.8
+2015-10-07 10:10:00 - Temperature_GF_Kitchen changed from 18.4 to 18.6
+2015-10-07 10:10:00 - Temperature_FF_Bath changed from 18.7 to 18.4
+2015-10-07 10:10:00 - Temperature_FF_Office changed from 21.2 to 22.1
+2015-10-07 10:10:00 - Temperature_FF_Child changed from 20.6 to 21.5
+2015-10-07 10:10:00 - Temperature_FF_Bed changed from 18.7 to 20.6
+2015-10-07 10:10:22 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 10:10:22 - Weather_Temperature updated to 14
+2015-10-07 10:10:22 - Weather_LastUpdate updated to 2015-10-07T10:10:22
+2015-10-07 10:10:22 - Weather_LastUpdate changed from 2015-10-07T10:09:22 to 2015-10-07T10:10:22
+2015-10-07 10:11:23 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 10:11:23 - Weather_Temperature updated to 14
+2015-10-07 10:11:23 - Weather_LastUpdate updated to 2015-10-07T10:11:23
+2015-10-07 10:11:23 - Weather_LastUpdate changed from 2015-10-07T10:10:22 to 2015-10-07T10:11:23
+2015-10-07 10:12:26 - CurrentDate updated to 2015-10-07T10:12:26
+2015-10-07 10:12:26 - CurrentDate changed from 2015-10-07T09:57:21 to 2015-10-07T10:12:26
+2015-10-07 10:14:58 - 'yahooweather:weather:berlin' updated: OFFLINE (COMMUNICATION_ERROR): Unexpected end of file from server
+2015-10-07 10:14:58 - 'yahooweather:weather:berlin' changed from ONLINE to OFFLINE (COMMUNICATION_ERROR): Unexpected end of file from server
+2015-10-07 10:15:00 - Temperature_GF_Corridor updated to 20.9
+2015-10-07 10:15:00 - Temperature_GF_Toilet updated to 22.0
+2015-10-07 10:15:00 - Temperature_GF_Living updated to 18.0
+2015-10-07 10:15:00 - Temperature_GF_Kitchen updated to 17.8
+2015-10-07 10:15:00 - Temperature_FF_Bath updated to 21.3
+2015-10-07 10:15:00 - Temperature_FF_Office updated to 18.2
+2015-10-07 10:15:00 - Temperature_FF_Child updated to 20.0
+2015-10-07 10:15:00 - Temperature_FF_Bed updated to 22.3
+2015-10-07 10:15:00 - Temperature_GF_Corridor changed from 19.3 to 20.9
+2015-10-07 10:15:00 - Temperature_GF_Toilet changed from 22.4 to 22.0
+2015-10-07 10:15:00 - Temperature_GF_Living changed from 21.8 to 18.0
+2015-10-07 10:15:00 - Temperature_GF_Kitchen changed from 18.6 to 17.8
+2015-10-07 10:15:00 - Temperature_FF_Bath changed from 18.4 to 21.3
+2015-10-07 10:15:00 - Temperature_FF_Office changed from 22.1 to 18.2
+2015-10-07 10:15:00 - Temperature_FF_Child changed from 21.5 to 20.0
+2015-10-07 10:15:00 - Temperature_FF_Bed changed from 20.6 to 22.3
+2015-10-07 10:17:31 - 'yahooweather:weather:berlin' updated: OFFLINE (COMMUNICATION_ERROR): Unexpected end of file from server
+2015-10-07 10:20:00 - Temperature_GF_Corridor updated to 19.8
+2015-10-07 10:20:00 - Temperature_GF_Toilet updated to 21.3
+2015-10-07 10:20:00 - Temperature_GF_Living updated to 20.9
+2015-10-07 10:20:00 - Temperature_GF_Kitchen updated to 18.0
+2015-10-07 10:20:00 - Temperature_FF_Bath updated to 21.4
+2015-10-07 10:20:00 - Temperature_FF_Office updated to 19.3
+2015-10-07 10:20:00 - Temperature_FF_Child updated to 21.2
+2015-10-07 10:20:00 - Temperature_FF_Bed updated to 19.1
+2015-10-07 10:20:00 - Temperature_GF_Corridor changed from 20.9 to 19.8
+2015-10-07 10:20:00 - Temperature_GF_Toilet changed from 22.0 to 21.3
+2015-10-07 10:20:00 - Temperature_GF_Living changed from 18.0 to 20.9
+2015-10-07 10:20:00 - Temperature_GF_Kitchen changed from 17.8 to 18.0
+2015-10-07 10:20:00 - Temperature_FF_Bath changed from 21.3 to 21.4
+2015-10-07 10:20:00 - Temperature_FF_Office changed from 18.2 to 19.3
+2015-10-07 10:20:00 - Temperature_FF_Child changed from 20.0 to 21.2
+2015-10-07 10:20:00 - Temperature_FF_Bed changed from 22.3 to 19.1
+2015-10-07 10:20:06 - 'yahooweather:weather:berlin' updated: OFFLINE (COMMUNICATION_ERROR): Unexpected end of file from server
+2015-10-07 10:22:38 - 'yahooweather:weather:berlin' updated: OFFLINE (COMMUNICATION_ERROR): Unexpected end of file from server
+2015-10-07 10:25:00 - Temperature_GF_Corridor updated to 21.5
+2015-10-07 10:25:00 - Temperature_GF_Toilet updated to 19.6
+2015-10-07 10:25:00 - Temperature_GF_Living updated to 20.4
+2015-10-07 10:25:00 - Temperature_GF_Kitchen updated to 17.6
+2015-10-07 10:25:00 - Temperature_FF_Bath updated to 21.0
+2015-10-07 10:25:00 - Temperature_FF_Office updated to 22.0
+2015-10-07 10:25:00 - Temperature_FF_Child updated to 19.4
+2015-10-07 10:25:00 - Temperature_FF_Bed updated to 21.7
+2015-10-07 10:25:00 - Temperature_GF_Corridor changed from 19.8 to 21.5
+2015-10-07 10:25:00 - Temperature_GF_Toilet changed from 21.3 to 19.6
+2015-10-07 10:25:00 - Temperature_GF_Living changed from 20.9 to 20.4
+2015-10-07 10:25:00 - Temperature_GF_Kitchen changed from 18.0 to 17.6
+2015-10-07 10:25:00 - Temperature_FF_Bath changed from 21.4 to 21.0
+2015-10-07 10:25:00 - Temperature_FF_Office changed from 19.3 to 22.0
+2015-10-07 10:25:00 - Temperature_FF_Child changed from 21.2 to 19.4
+2015-10-07 10:25:00 - Temperature_FF_Bed changed from 19.1 to 21.7
+2015-10-07 10:25:11 - 'yahooweather:weather:berlin' updated: OFFLINE (COMMUNICATION_ERROR): Unexpected end of file from server
+2015-10-07 10:27:31 - CurrentDate updated to 2015-10-07T10:27:31
+2015-10-07 10:27:31 - CurrentDate changed from 2015-10-07T10:12:26 to 2015-10-07T10:27:31
+2015-10-07 10:27:42 - 'yahooweather:weather:berlin' updated: OFFLINE (COMMUNICATION_ERROR): Unexpected end of file from server
+2015-10-07 10:30:00 - Temperature_GF_Corridor updated to 19.8
+2015-10-07 10:30:00 - Temperature_GF_Toilet updated to 20.1
+2015-10-07 10:30:00 - Temperature_GF_Living updated to 20.0
+2015-10-07 10:30:00 - Temperature_GF_Kitchen updated to 19.2
+2015-10-07 10:30:00 - Temperature_FF_Bath updated to 21.4
+2015-10-07 10:30:00 - Temperature_FF_Office updated to 17.9
+2015-10-07 10:30:00 - Temperature_FF_Child updated to 21.5
+2015-10-07 10:30:00 - Temperature_FF_Bed updated to 18.0
+2015-10-07 10:30:00 - Temperature_GF_Corridor changed from 21.5 to 19.8
+2015-10-07 10:30:00 - Temperature_GF_Toilet changed from 19.6 to 20.1
+2015-10-07 10:30:00 - Temperature_GF_Living changed from 20.4 to 20.0
+2015-10-07 10:30:00 - Temperature_GF_Kitchen changed from 17.6 to 19.2
+2015-10-07 10:30:00 - Temperature_FF_Bath changed from 21.0 to 21.4
+2015-10-07 10:30:00 - Temperature_FF_Office changed from 22.0 to 17.9
+2015-10-07 10:30:00 - Temperature_FF_Child changed from 19.4 to 21.5
+2015-10-07 10:30:00 - Temperature_FF_Bed changed from 21.7 to 18.0
+2015-10-07 10:30:15 - 'yahooweather:weather:berlin' updated: OFFLINE (COMMUNICATION_ERROR): Unexpected end of file from server
+2015-10-07 10:32:46 - 'yahooweather:weather:berlin' updated: OFFLINE (COMMUNICATION_ERROR): Unexpected end of file from server
+2015-10-07 10:35:00 - Temperature_GF_Corridor updated to 17.6
+2015-10-07 10:35:00 - Temperature_GF_Toilet updated to 18.3
+2015-10-07 10:35:00 - Temperature_GF_Living updated to 19.6
+2015-10-07 10:35:00 - Temperature_GF_Kitchen updated to 18.2
+2015-10-07 10:35:00 - Temperature_FF_Bath updated to 20.8
+2015-10-07 10:35:00 - Temperature_FF_Office updated to 19.7
+2015-10-07 10:35:00 - Temperature_FF_Child updated to 19.0
+2015-10-07 10:35:00 - Temperature_FF_Bed updated to 21.5
+2015-10-07 10:35:00 - Temperature_GF_Corridor changed from 19.8 to 17.6
+2015-10-07 10:35:00 - Temperature_GF_Toilet changed from 20.1 to 18.3
+2015-10-07 10:35:00 - Temperature_GF_Living changed from 20.0 to 19.6
+2015-10-07 10:35:00 - Temperature_GF_Kitchen changed from 19.2 to 18.2
+2015-10-07 10:35:00 - Temperature_FF_Bath changed from 21.4 to 20.8
+2015-10-07 10:35:00 - Temperature_FF_Office changed from 17.9 to 19.7
+2015-10-07 10:35:00 - Temperature_FF_Child changed from 21.5 to 19.0
+2015-10-07 10:35:00 - Temperature_FF_Bed changed from 18.0 to 21.5
+2015-10-07 10:35:19 - 'yahooweather:weather:berlin' updated: OFFLINE (COMMUNICATION_ERROR): Unexpected end of file from server
+2015-10-07 10:37:50 - 'yahooweather:weather:berlin' updated: OFFLINE (COMMUNICATION_ERROR): Unexpected end of file from server
+2015-10-07 10:40:00 - Temperature_GF_Corridor updated to 22.1
+2015-10-07 10:40:00 - Temperature_GF_Toilet updated to 18.6
+2015-10-07 10:40:00 - Temperature_GF_Living updated to 19.2
+2015-10-07 10:40:00 - Temperature_GF_Kitchen updated to 19.3
+2015-10-07 10:40:00 - Temperature_FF_Bath updated to 21.5
+2015-10-07 10:40:00 - Temperature_FF_Office updated to 17.7
+2015-10-07 10:40:00 - Temperature_FF_Child updated to 20.6
+2015-10-07 10:40:00 - Temperature_FF_Bed updated to 17.9
+2015-10-07 10:40:00 - Temperature_GF_Corridor changed from 17.6 to 22.1
+2015-10-07 10:40:00 - Temperature_GF_Toilet changed from 18.3 to 18.6
+2015-10-07 10:40:00 - Temperature_GF_Living changed from 19.6 to 19.2
+2015-10-07 10:40:00 - Temperature_GF_Kitchen changed from 18.2 to 19.3
+2015-10-07 10:40:00 - Temperature_FF_Bath changed from 20.8 to 21.5
+2015-10-07 10:40:00 - Temperature_FF_Office changed from 19.7 to 17.7
+2015-10-07 10:40:00 - Temperature_FF_Child changed from 19.0 to 20.6
+2015-10-07 10:40:00 - Temperature_FF_Bed changed from 21.5 to 17.9
+2015-10-07 10:40:23 - 'yahooweather:weather:berlin' updated: OFFLINE (COMMUNICATION_ERROR): Unexpected end of file from server
+2015-10-07 10:42:36 - CurrentDate updated to 2015-10-07T10:42:36
+2015-10-07 10:42:36 - CurrentDate changed from 2015-10-07T10:27:31 to 2015-10-07T10:42:36
+2015-10-07 10:42:54 - 'yahooweather:weather:berlin' updated: OFFLINE (COMMUNICATION_ERROR): Unexpected end of file from server
+2015-10-07 10:45:00 - Temperature_GF_Corridor updated to 21.5
+2015-10-07 10:45:00 - Temperature_GF_Toilet updated to 21.3
+2015-10-07 10:45:00 - Temperature_GF_Living updated to 17.8
+2015-10-07 10:45:00 - Temperature_GF_Kitchen updated to 20.2
+2015-10-07 10:45:00 - Temperature_FF_Bath updated to 18.2
+2015-10-07 10:45:00 - Temperature_FF_Office updated to 19.9
+2015-10-07 10:45:00 - Temperature_FF_Child updated to 21.7
+2015-10-07 10:45:00 - Temperature_FF_Bed updated to 18.8
+2015-10-07 10:45:00 - Temperature_GF_Corridor changed from 22.1 to 21.5
+2015-10-07 10:45:00 - Temperature_GF_Toilet changed from 18.6 to 21.3
+2015-10-07 10:45:00 - Temperature_GF_Living changed from 19.2 to 17.8
+2015-10-07 10:45:00 - Temperature_GF_Kitchen changed from 19.3 to 20.2
+2015-10-07 10:45:00 - Temperature_FF_Bath changed from 21.5 to 18.2
+2015-10-07 10:45:00 - Temperature_FF_Office changed from 17.7 to 19.9
+2015-10-07 10:45:00 - Temperature_FF_Child changed from 20.6 to 21.7
+2015-10-07 10:45:00 - Temperature_FF_Bed changed from 17.9 to 18.8
+2015-10-07 10:45:28 - 'yahooweather:weather:berlin' updated: OFFLINE (COMMUNICATION_ERROR): Unexpected end of file from server
+2015-10-07 10:48:02 - 'yahooweather:weather:berlin' updated: OFFLINE (COMMUNICATION_ERROR): Unexpected end of file from server
+2015-10-07 10:50:00 - Temperature_GF_Corridor updated to 19.5
+2015-10-07 10:50:00 - Temperature_GF_Toilet updated to 18.8
+2015-10-07 10:50:00 - Temperature_GF_Living updated to 22.1
+2015-10-07 10:50:00 - Temperature_GF_Kitchen updated to 19.6
+2015-10-07 10:50:00 - Temperature_FF_Bath updated to 21.4
+2015-10-07 10:50:00 - Temperature_FF_Office updated to 22.1
+2015-10-07 10:50:00 - Temperature_FF_Child updated to 20.2
+2015-10-07 10:50:00 - Temperature_FF_Bed updated to 21.3
+2015-10-07 10:50:00 - Temperature_GF_Corridor changed from 21.5 to 19.5
+2015-10-07 10:50:00 - Temperature_GF_Toilet changed from 21.3 to 18.8
+2015-10-07 10:50:01 - Temperature_GF_Living changed from 17.8 to 22.1
+2015-10-07 10:50:01 - Temperature_GF_Kitchen changed from 20.2 to 19.6
+2015-10-07 10:50:01 - Temperature_FF_Bath changed from 18.2 to 21.4
+2015-10-07 10:50:01 - Temperature_FF_Office changed from 19.9 to 22.1
+2015-10-07 10:50:01 - Temperature_FF_Child changed from 21.7 to 20.2
+2015-10-07 10:50:01 - Temperature_FF_Bed changed from 18.8 to 21.3
+2015-10-07 10:50:36 - 'yahooweather:weather:berlin' updated: OFFLINE (COMMUNICATION_ERROR): Unexpected end of file from server
+2015-10-07 10:53:12 - 'yahooweather:weather:berlin' updated: OFFLINE (COMMUNICATION_ERROR): Unexpected end of file from server
+2015-10-07 10:55:00 - Temperature_GF_Corridor updated to 19.1
+2015-10-07 10:55:00 - Temperature_GF_Toilet updated to 20.7
+2015-10-07 10:55:00 - Temperature_GF_Living updated to 21.9
+2015-10-07 10:55:00 - Temperature_GF_Kitchen updated to 22.0
+2015-10-07 10:55:00 - Temperature_FF_Bath updated to 20.5
+2015-10-07 10:55:00 - Temperature_FF_Office updated to 21.1
+2015-10-07 10:55:00 - Temperature_FF_Child updated to 18.5
+2015-10-07 10:55:00 - Temperature_FF_Bed updated to 20.8
+2015-10-07 10:55:00 - Temperature_GF_Corridor changed from 19.5 to 19.1
+2015-10-07 10:55:00 - Temperature_GF_Toilet changed from 18.8 to 20.7
+2015-10-07 10:55:00 - Temperature_GF_Living changed from 22.1 to 21.9
+2015-10-07 10:55:00 - Temperature_GF_Kitchen changed from 19.6 to 22.0
+2015-10-07 10:55:00 - Temperature_FF_Bath changed from 21.4 to 20.5
+2015-10-07 10:55:00 - Temperature_FF_Office changed from 22.1 to 21.1
+2015-10-07 10:55:00 - Temperature_FF_Child changed from 20.2 to 18.5
+2015-10-07 10:55:00 - Temperature_FF_Bed changed from 21.3 to 20.8
+2015-10-07 10:55:43 - 'yahooweather:weather:berlin' updated: OFFLINE (COMMUNICATION_ERROR): Unexpected end of file from server
+2015-10-07 10:57:41 - CurrentDate updated to 2015-10-07T10:57:41
+2015-10-07 10:57:41 - CurrentDate changed from 2015-10-07T10:42:36 to 2015-10-07T10:57:41
+2015-10-07 10:58:16 - 'yahooweather:weather:berlin' updated: OFFLINE (COMMUNICATION_ERROR): Unexpected end of file from server
+2015-10-07 11:00:00 - Temperature_GF_Corridor updated to 17.7
+2015-10-07 11:00:00 - Temperature_GF_Toilet updated to 21.2
+2015-10-07 11:00:00 - Temperature_GF_Living updated to 19.1
+2015-10-07 11:00:00 - Temperature_GF_Kitchen updated to 22.3
+2015-10-07 11:00:00 - Temperature_FF_Bath updated to 19.2
+2015-10-07 11:00:00 - Temperature_FF_Office updated to 21.3
+2015-10-07 11:00:00 - Temperature_FF_Child updated to 22.2
+2015-10-07 11:00:00 - Temperature_FF_Bed updated to 22.3
+2015-10-07 11:00:00 - Temperature_GF_Corridor changed from 19.1 to 17.7
+2015-10-07 11:00:00 - Temperature_GF_Toilet changed from 20.7 to 21.2
+2015-10-07 11:00:00 - Temperature_GF_Living changed from 21.9 to 19.1
+2015-10-07 11:00:00 - Temperature_GF_Kitchen changed from 22.0 to 22.3
+2015-10-07 11:00:00 - Temperature_FF_Bath changed from 20.5 to 19.2
+2015-10-07 11:00:00 - Temperature_FF_Office changed from 21.1 to 21.3
+2015-10-07 11:00:00 - Temperature_FF_Child changed from 18.5 to 22.2
+2015-10-07 11:00:00 - Temperature_FF_Bed changed from 20.8 to 22.3
+2015-10-07 11:00:49 - 'yahooweather:weather:berlin' updated: OFFLINE (COMMUNICATION_ERROR): Unexpected end of file from server
+2015-10-07 11:03:22 - 'yahooweather:weather:berlin' updated: OFFLINE (COMMUNICATION_ERROR): Unexpected end of file from server
+2015-10-07 11:05:00 - Temperature_GF_Corridor updated to 21.1
+2015-10-07 11:05:00 - Temperature_GF_Toilet updated to 22.5
+2015-10-07 11:05:00 - Temperature_GF_Living updated to 19.3
+2015-10-07 11:05:00 - Temperature_GF_Kitchen updated to 20.1
+2015-10-07 11:05:00 - Temperature_GF_Corridor changed from 17.7 to 21.1
+2015-10-07 11:05:00 - Temperature_FF_Bath updated to 20.0
+2015-10-07 11:05:00 - Temperature_FF_Office updated to 21.5
+2015-10-07 11:05:00 - Temperature_FF_Child updated to 21.1
+2015-10-07 11:05:00 - Temperature_GF_Toilet changed from 21.2 to 22.5
+2015-10-07 11:05:00 - Temperature_FF_Bed updated to 21.5
+2015-10-07 11:05:00 - Temperature_GF_Living changed from 19.1 to 19.3
+2015-10-07 11:05:00 - Temperature_GF_Kitchen changed from 22.3 to 20.1
+2015-10-07 11:05:00 - Temperature_FF_Bath changed from 19.2 to 20.0
+2015-10-07 11:05:00 - Temperature_FF_Office changed from 21.3 to 21.5
+2015-10-07 11:05:00 - Temperature_FF_Child changed from 22.2 to 21.1
+2015-10-07 11:05:00 - Temperature_FF_Bed changed from 22.3 to 21.5
+2015-10-07 11:05:53 - 'yahooweather:weather:berlin' updated: OFFLINE (COMMUNICATION_ERROR): Unexpected end of file from server
+2015-10-07 11:08:24 - 'yahooweather:weather:berlin' updated: OFFLINE (COMMUNICATION_ERROR): Unexpected end of file from server
+2015-10-07 11:10:00 - Temperature_GF_Corridor updated to 20.7
+2015-10-07 11:10:00 - Temperature_GF_Toilet updated to 22.4
+2015-10-07 11:10:00 - Temperature_GF_Living updated to 17.7
+2015-10-07 11:10:00 - Temperature_GF_Kitchen updated to 18.9
+2015-10-07 11:10:00 - Temperature_FF_Bath updated to 21.5
+2015-10-07 11:10:00 - Temperature_FF_Office updated to 18.8
+2015-10-07 11:10:00 - Temperature_FF_Child updated to 17.8
+2015-10-07 11:10:00 - Temperature_FF_Bed updated to 18.4
+2015-10-07 11:10:00 - Temperature_GF_Corridor changed from 21.1 to 20.7
+2015-10-07 11:10:00 - Temperature_GF_Toilet changed from 22.5 to 22.4
+2015-10-07 11:10:00 - Temperature_GF_Living changed from 19.3 to 17.7
+2015-10-07 11:10:00 - Temperature_GF_Kitchen changed from 20.1 to 18.9
+2015-10-07 11:10:00 - Temperature_FF_Bath changed from 20.0 to 21.5
+2015-10-07 11:10:00 - Temperature_FF_Office changed from 21.5 to 18.8
+2015-10-07 11:10:00 - Temperature_FF_Child changed from 21.1 to 17.8
+2015-10-07 11:10:00 - Temperature_FF_Bed changed from 21.5 to 18.4
+2015-10-07 11:10:57 - 'yahooweather:weather:berlin' updated: OFFLINE (COMMUNICATION_ERROR): Unexpected end of file from server
+2015-10-07 11:12:47 - CurrentDate updated to 2015-10-07T11:12:47
+2015-10-07 11:12:47 - CurrentDate changed from 2015-10-07T10:57:41 to 2015-10-07T11:12:47
+2015-10-07 11:13:30 - 'yahooweather:weather:berlin' updated: OFFLINE (COMMUNICATION_ERROR): Unexpected end of file from server
+2015-10-07 11:15:00 - Temperature_GF_Corridor updated to 20.1
+2015-10-07 11:15:00 - Temperature_GF_Toilet updated to 18.1
+2015-10-07 11:15:00 - Temperature_GF_Living updated to 19.2
+2015-10-07 11:15:00 - Temperature_GF_Kitchen updated to 19.3
+2015-10-07 11:15:00 - Temperature_GF_Corridor changed from 20.7 to 20.1
+2015-10-07 11:15:00 - Temperature_FF_Bath updated to 19.1
+2015-10-07 11:15:00 - Temperature_FF_Office updated to 21.4
+2015-10-07 11:15:00 - Temperature_FF_Child updated to 22.5
+2015-10-07 11:15:00 - Temperature_FF_Bed updated to 17.6
+2015-10-07 11:15:00 - Temperature_GF_Toilet changed from 22.4 to 18.1
+2015-10-07 11:15:00 - Temperature_GF_Living changed from 17.7 to 19.2
+2015-10-07 11:15:00 - Temperature_GF_Kitchen changed from 18.9 to 19.3
+2015-10-07 11:15:00 - Temperature_FF_Bath changed from 21.5 to 19.1
+2015-10-07 11:15:00 - Temperature_FF_Office changed from 18.8 to 21.4
+2015-10-07 11:15:00 - Temperature_FF_Child changed from 17.8 to 22.5
+2015-10-07 11:15:00 - Temperature_FF_Bed changed from 18.4 to 17.6
+2015-10-07 11:16:01 - 'yahooweather:weather:berlin' updated: OFFLINE (COMMUNICATION_ERROR): Unexpected end of file from server
+2015-10-07 11:18:35 - 'yahooweather:weather:berlin' updated: OFFLINE (COMMUNICATION_ERROR): Unexpected end of file from server
+2015-10-07 11:20:00 - Temperature_GF_Corridor updated to 18.1
+2015-10-07 11:20:00 - Temperature_GF_Toilet updated to 20.8
+2015-10-07 11:20:00 - Temperature_GF_Living updated to 18.2
+2015-10-07 11:20:00 - Temperature_GF_Kitchen updated to 22.0
+2015-10-07 11:20:00 - Temperature_FF_Bath updated to 20.8
+2015-10-07 11:20:00 - Temperature_FF_Office updated to 20.4
+2015-10-07 11:20:00 - Temperature_FF_Child updated to 19.7
+2015-10-07 11:20:00 - Temperature_FF_Bed updated to 22.5
+2015-10-07 11:20:00 - Temperature_GF_Corridor changed from 20.1 to 18.1
+2015-10-07 11:20:00 - Temperature_GF_Toilet changed from 18.1 to 20.8
+2015-10-07 11:20:00 - Temperature_GF_Living changed from 19.2 to 18.2
+2015-10-07 11:20:00 - Temperature_GF_Kitchen changed from 19.3 to 22.0
+2015-10-07 11:20:00 - Temperature_FF_Bath changed from 19.1 to 20.8
+2015-10-07 11:20:00 - Temperature_FF_Office changed from 21.4 to 20.4
+2015-10-07 11:20:00 - Temperature_FF_Child changed from 22.5 to 19.7
+2015-10-07 11:20:00 - Temperature_FF_Bed changed from 17.6 to 22.5
+2015-10-07 11:21:05 - 'yahooweather:weather:berlin' updated: OFFLINE (COMMUNICATION_ERROR): Unexpected end of file from server
+2015-10-07 11:23:38 - 'yahooweather:weather:berlin' updated: OFFLINE (COMMUNICATION_ERROR): Unexpected end of file from server
+2015-10-07 11:25:00 - Temperature_GF_Corridor updated to 21.6
+2015-10-07 11:25:00 - Temperature_GF_Toilet updated to 21.0
+2015-10-07 11:25:00 - Temperature_GF_Living updated to 22.3
+2015-10-07 11:25:00 - Temperature_GF_Kitchen updated to 19.2
+2015-10-07 11:25:00 - Temperature_FF_Bath updated to 18.8
+2015-10-07 11:25:00 - Temperature_FF_Office updated to 18.0
+2015-10-07 11:25:00 - Temperature_FF_Child updated to 20.0
+2015-10-07 11:25:00 - Temperature_FF_Bed updated to 19.7
+2015-10-07 11:25:00 - Temperature_GF_Corridor changed from 18.1 to 21.6
+2015-10-07 11:25:00 - Temperature_GF_Toilet changed from 20.8 to 21.0
+2015-10-07 11:25:00 - Temperature_GF_Living changed from 18.2 to 22.3
+2015-10-07 11:25:00 - Temperature_GF_Kitchen changed from 22.0 to 19.2
+2015-10-07 11:25:00 - Temperature_FF_Bath changed from 20.8 to 18.8
+2015-10-07 11:25:00 - Temperature_FF_Office changed from 20.4 to 18.0
+2015-10-07 11:25:00 - Temperature_FF_Child changed from 19.7 to 20.0
+2015-10-07 11:25:00 - Temperature_FF_Bed changed from 22.5 to 19.7
+2015-10-07 11:26:09 - 'yahooweather:weather:berlin' updated: OFFLINE (COMMUNICATION_ERROR): Unexpected end of file from server
+2015-10-07 11:27:53 - CurrentDate updated to 2015-10-07T11:27:53
+2015-10-07 11:27:53 - CurrentDate changed from 2015-10-07T11:12:47 to 2015-10-07T11:27:53
+2015-10-07 11:28:43 - 'yahooweather:weather:berlin' updated: OFFLINE (COMMUNICATION_ERROR): Unexpected end of file from server
+2015-10-07 11:30:00 - Temperature_GF_Corridor updated to 19.1
+2015-10-07 11:30:00 - Temperature_GF_Toilet updated to 20.4
+2015-10-07 11:30:00 - Temperature_GF_Living updated to 17.9
+2015-10-07 11:30:00 - Temperature_GF_Kitchen updated to 17.9
+2015-10-07 11:30:00 - Temperature_FF_Bath updated to 19.2
+2015-10-07 11:30:00 - Temperature_FF_Office updated to 21.6
+2015-10-07 11:30:00 - Temperature_FF_Child updated to 22.0
+2015-10-07 11:30:00 - Temperature_FF_Bed updated to 18.7
+2015-10-07 11:30:00 - Temperature_GF_Corridor changed from 21.6 to 19.1
+2015-10-07 11:30:00 - Temperature_GF_Toilet changed from 21.0 to 20.4
+2015-10-07 11:30:00 - Temperature_GF_Living changed from 22.3 to 17.9
+2015-10-07 11:30:00 - Temperature_GF_Kitchen changed from 19.2 to 17.9
+2015-10-07 11:30:00 - Temperature_FF_Bath changed from 18.8 to 19.2
+2015-10-07 11:30:00 - Temperature_FF_Office changed from 18.0 to 21.6
+2015-10-07 11:30:00 - Temperature_FF_Child changed from 20.0 to 22.0
+2015-10-07 11:30:00 - Temperature_FF_Bed changed from 19.7 to 18.7
+2015-10-07 11:31:13 - 'yahooweather:weather:berlin' updated: OFFLINE (COMMUNICATION_ERROR): Unexpected end of file from server
+2015-10-07 11:33:47 - 'yahooweather:weather:berlin' updated: OFFLINE (COMMUNICATION_ERROR): Unexpected end of file from server
+2015-10-07 11:35:00 - Temperature_GF_Corridor updated to 22.0
+2015-10-07 11:35:00 - Temperature_GF_Toilet updated to 17.8
+2015-10-07 11:35:00 - Temperature_GF_Living updated to 19.6
+2015-10-07 11:35:00 - Temperature_GF_Corridor changed from 19.1 to 22.0
+2015-10-07 11:35:00 - Temperature_GF_Kitchen updated to 20.6
+2015-10-07 11:35:00 - Temperature_FF_Bath updated to 22.4
+2015-10-07 11:35:00 - Temperature_FF_Office updated to 19.3
+2015-10-07 11:35:00 - Temperature_GF_Toilet changed from 20.4 to 17.8
+2015-10-07 11:35:00 - Temperature_FF_Child updated to 22.2
+2015-10-07 11:35:00 - Temperature_FF_Bed updated to 20.7
+2015-10-07 11:35:00 - Temperature_GF_Living changed from 17.9 to 19.6
+2015-10-07 11:35:00 - Temperature_GF_Kitchen changed from 17.9 to 20.6
+2015-10-07 11:35:00 - Temperature_FF_Bath changed from 19.2 to 22.4
+2015-10-07 11:35:00 - Temperature_FF_Office changed from 21.6 to 19.3
+2015-10-07 11:35:00 - Temperature_FF_Child changed from 22.0 to 22.2
+2015-10-07 11:35:00 - Temperature_FF_Bed changed from 18.7 to 20.7
+2015-10-07 11:36:18 - 'yahooweather:weather:berlin' updated: OFFLINE (COMMUNICATION_ERROR): Unexpected end of file from server
+2015-10-07 11:38:51 - 'yahooweather:weather:berlin' updated: OFFLINE (COMMUNICATION_ERROR): Unexpected end of file from server
+2015-10-07 11:38:51 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 11:38:51 - 'yahooweather:weather:berlin' changed from OFFLINE (COMMUNICATION_ERROR): Unexpected end of file from server to ONLINE
+2015-10-07 11:38:51 - Weather_Temperature updated to 15
+2015-10-07 11:38:51 - Weather_Temperature changed from 14 to 15
+2015-10-07 11:38:51 - Weather_LastUpdate updated to 2015-10-07T11:38:51
+2015-10-07 11:38:51 - Weather_LastUpdate changed from 2015-10-07T10:11:23 to 2015-10-07T11:38:51
+2015-10-07 11:38:51 - Weather_Temp_Max updated to 15
+2015-10-07 11:38:51 - Weather_Temp_Max changed from 14 to 15
+2015-10-07 11:38:51 - Weather_Temp_Min updated to 14
+2015-10-07 11:38:51 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 11:38:51 - Weather_Temperature updated to 15
+2015-10-07 11:38:51 - Weather_LastUpdate updated to 2015-10-07T11:38:51
+2015-10-07 11:38:52 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 11:38:52 - Weather_Temperature updated to 15
+2015-10-07 11:38:52 - Weather_LastUpdate updated to 2015-10-07T11:38:52
+2015-10-07 11:38:52 - Weather_LastUpdate changed from 2015-10-07T11:38:51 to 2015-10-07T11:38:52
+2015-10-07 11:38:52 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 11:38:52 - Weather_Temperature updated to 15
+2015-10-07 11:38:52 - Weather_LastUpdate updated to 2015-10-07T11:38:52
+2015-10-07 11:38:52 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 11:38:52 - Weather_Temperature updated to 15
+2015-10-07 11:38:52 - Weather_LastUpdate updated to 2015-10-07T11:38:52
+2015-10-07 11:38:52 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 11:38:52 - Weather_Temperature updated to 15
+2015-10-07 11:38:52 - Weather_LastUpdate updated to 2015-10-07T11:38:52
+2015-10-07 11:38:52 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 11:38:52 - Weather_Temperature updated to 15
+2015-10-07 11:38:52 - Weather_LastUpdate updated to 2015-10-07T11:38:52
+2015-10-07 11:38:52 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 11:38:52 - Weather_Temperature updated to 15
+2015-10-07 11:38:52 - Weather_LastUpdate updated to 2015-10-07T11:38:52
+2015-10-07 11:38:52 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 11:38:52 - Weather_Temperature updated to 15
+2015-10-07 11:38:52 - Weather_LastUpdate updated to 2015-10-07T11:38:52
+2015-10-07 11:38:52 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 11:38:52 - Weather_Temperature updated to 15
+2015-10-07 11:38:52 - Weather_LastUpdate updated to 2015-10-07T11:38:52
+2015-10-07 11:38:52 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 11:38:52 - Weather_Temperature updated to 15
+2015-10-07 11:38:52 - Weather_LastUpdate updated to 2015-10-07T11:38:52
+2015-10-07 11:38:52 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 11:38:52 - Weather_Temperature updated to 15
+2015-10-07 11:38:52 - Weather_LastUpdate updated to 2015-10-07T11:38:52
+2015-10-07 11:38:52 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 11:38:52 - Weather_Temperature updated to 15
+2015-10-07 11:38:52 - Weather_LastUpdate updated to 2015-10-07T11:38:52
+2015-10-07 11:38:52 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 11:38:52 - Weather_Temperature updated to 15
+2015-10-07 11:38:52 - Weather_LastUpdate updated to 2015-10-07T11:38:52
+2015-10-07 11:38:52 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 11:38:52 - Weather_Temperature updated to 15
+2015-10-07 11:38:52 - Weather_LastUpdate updated to 2015-10-07T11:38:52
+2015-10-07 11:38:52 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 11:38:52 - Weather_Temperature updated to 15
+2015-10-07 11:38:52 - Weather_LastUpdate updated to 2015-10-07T11:38:52
+2015-10-07 11:38:52 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 11:38:52 - Weather_Temperature updated to 15
+2015-10-07 11:38:52 - Weather_LastUpdate updated to 2015-10-07T11:38:52
+2015-10-07 11:38:52 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 11:38:52 - Weather_Temperature updated to 15
+2015-10-07 11:38:52 - Weather_LastUpdate updated to 2015-10-07T11:38:52
+2015-10-07 11:38:52 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 11:38:52 - Weather_Temperature updated to 15
+2015-10-07 11:38:52 - Weather_LastUpdate updated to 2015-10-07T11:38:52
+2015-10-07 11:38:52 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 11:38:52 - Weather_Temperature updated to 15
+2015-10-07 11:38:52 - Weather_LastUpdate updated to 2015-10-07T11:38:52
+2015-10-07 11:38:52 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 11:38:52 - Weather_Temperature updated to 15
+2015-10-07 11:38:52 - Weather_LastUpdate updated to 2015-10-07T11:38:52
+2015-10-07 11:38:52 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 11:38:52 - Weather_Temperature updated to 15
+2015-10-07 11:38:52 - Weather_LastUpdate updated to 2015-10-07T11:38:52
+2015-10-07 11:38:52 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 11:38:52 - Weather_Temperature updated to 15
+2015-10-07 11:38:52 - Weather_LastUpdate updated to 2015-10-07T11:38:52
+2015-10-07 11:38:52 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 11:38:52 - Weather_Temperature updated to 15
+2015-10-07 11:38:52 - Weather_LastUpdate updated to 2015-10-07T11:38:52
+2015-10-07 11:38:52 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 11:38:52 - Weather_Temperature updated to 15
+2015-10-07 11:38:52 - Weather_LastUpdate updated to 2015-10-07T11:38:52
+2015-10-07 11:38:53 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 11:38:53 - Weather_Temperature updated to 15
+2015-10-07 11:38:53 - Weather_LastUpdate updated to 2015-10-07T11:38:53
+2015-10-07 11:38:53 - Weather_LastUpdate changed from 2015-10-07T11:38:52 to 2015-10-07T11:38:53
+2015-10-07 11:38:53 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 11:38:53 - Weather_Temperature updated to 15
+2015-10-07 11:38:53 - Weather_LastUpdate updated to 2015-10-07T11:38:53
+2015-10-07 11:38:53 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 11:38:53 - Weather_Temperature updated to 15
+2015-10-07 11:38:53 - Weather_LastUpdate updated to 2015-10-07T11:38:53
+2015-10-07 11:38:53 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 11:38:53 - Weather_Temperature updated to 15
+2015-10-07 11:38:53 - Weather_LastUpdate updated to 2015-10-07T11:38:53
+2015-10-07 11:38:53 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 11:38:53 - Weather_Temperature updated to 15
+2015-10-07 11:38:53 - Weather_LastUpdate updated to 2015-10-07T11:38:53
+2015-10-07 11:38:53 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 11:38:53 - Weather_Temperature updated to 15
+2015-10-07 11:38:53 - Weather_LastUpdate updated to 2015-10-07T11:38:53
+2015-10-07 11:38:53 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 11:38:53 - Weather_Temperature updated to 15
+2015-10-07 11:38:53 - Weather_LastUpdate updated to 2015-10-07T11:38:53
+2015-10-07 11:38:53 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 11:38:53 - Weather_Temperature updated to 15
+2015-10-07 11:38:53 - Weather_LastUpdate updated to 2015-10-07T11:38:53
+2015-10-07 11:38:53 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 11:38:53 - Weather_Temperature updated to 15
+2015-10-07 11:38:53 - Weather_LastUpdate updated to 2015-10-07T11:38:53
+2015-10-07 11:38:53 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 11:38:53 - Weather_Temperature updated to 15
+2015-10-07 11:38:53 - Weather_LastUpdate updated to 2015-10-07T11:38:53
+2015-10-07 11:38:53 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 11:38:53 - Weather_Temperature updated to 15
+2015-10-07 11:38:53 - Weather_LastUpdate updated to 2015-10-07T11:38:53
+2015-10-07 11:38:53 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 11:38:53 - Weather_Temperature updated to 15
+2015-10-07 11:38:53 - Weather_LastUpdate updated to 2015-10-07T11:38:53
+2015-10-07 11:38:53 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 11:38:53 - Weather_Temperature updated to 15
+2015-10-07 11:38:53 - Weather_LastUpdate updated to 2015-10-07T11:38:53
+2015-10-07 11:38:53 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 11:38:53 - Weather_Temperature updated to 15
+2015-10-07 11:38:53 - Weather_LastUpdate updated to 2015-10-07T11:38:53
+2015-10-07 11:38:53 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 11:38:53 - Weather_Temperature updated to 15
+2015-10-07 11:38:53 - Weather_LastUpdate updated to 2015-10-07T11:38:53
+2015-10-07 11:38:53 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 11:38:53 - Weather_Temperature updated to 15
+2015-10-07 11:38:53 - Weather_LastUpdate updated to 2015-10-07T11:38:53
+2015-10-07 11:38:53 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 11:38:53 - Weather_Temperature updated to 15
+2015-10-07 11:38:53 - Weather_LastUpdate updated to 2015-10-07T11:38:53
+2015-10-07 11:38:53 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 11:38:53 - Weather_Temperature updated to 15
+2015-10-07 11:38:53 - Weather_LastUpdate updated to 2015-10-07T11:38:53
+2015-10-07 11:38:53 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 11:38:53 - Weather_Temperature updated to 15
+2015-10-07 11:38:53 - Weather_LastUpdate updated to 2015-10-07T11:38:53
+2015-10-07 11:38:53 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 11:38:53 - Weather_Temperature updated to 15
+2015-10-07 11:38:53 - Weather_LastUpdate updated to 2015-10-07T11:38:53
+2015-10-07 11:38:53 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 11:38:53 - Weather_Temperature updated to 15
+2015-10-07 11:38:53 - Weather_LastUpdate updated to 2015-10-07T11:38:53
+2015-10-07 11:38:53 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 11:38:53 - Weather_Temperature updated to 15
+2015-10-07 11:38:53 - Weather_LastUpdate updated to 2015-10-07T11:38:53
+2015-10-07 11:38:53 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 11:38:53 - Weather_Temperature updated to 15
+2015-10-07 11:38:53 - Weather_LastUpdate updated to 2015-10-07T11:38:53
+2015-10-07 11:38:53 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 11:38:53 - Weather_Temperature updated to 15
+2015-10-07 11:38:53 - Weather_LastUpdate updated to 2015-10-07T11:38:53
+2015-10-07 11:38:54 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 11:38:54 - Weather_Temperature updated to 15
+2015-10-07 11:38:54 - Weather_LastUpdate updated to 2015-10-07T11:38:54
+2015-10-07 11:38:54 - Weather_LastUpdate changed from 2015-10-07T11:38:53 to 2015-10-07T11:38:54
+2015-10-07 11:38:54 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 11:38:54 - Weather_Temperature updated to 15
+2015-10-07 11:38:54 - Weather_LastUpdate updated to 2015-10-07T11:38:54
+2015-10-07 11:38:54 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 11:38:54 - Weather_Temperature updated to 15
+2015-10-07 11:38:54 - Weather_LastUpdate updated to 2015-10-07T11:38:54
+2015-10-07 11:38:54 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 11:38:54 - Weather_Temperature updated to 15
+2015-10-07 11:38:54 - Weather_LastUpdate updated to 2015-10-07T11:38:54
+2015-10-07 11:39:23 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 11:39:23 - Weather_Temperature updated to 15
+2015-10-07 11:39:23 - Weather_LastUpdate updated to 2015-10-07T11:39:23
+2015-10-07 11:39:23 - Weather_LastUpdate changed from 2015-10-07T11:38:54 to 2015-10-07T11:39:23
+2015-10-07 11:40:00 - Temperature_GF_Corridor updated to 18.0
+2015-10-07 11:40:00 - Temperature_GF_Toilet updated to 21.9
+2015-10-07 11:40:00 - Temperature_GF_Living updated to 21.4
+2015-10-07 11:40:00 - Temperature_GF_Kitchen updated to 21.6
+2015-10-07 11:40:00 - Temperature_FF_Bath updated to 19.1
+2015-10-07 11:40:00 - Temperature_FF_Office updated to 21.0
+2015-10-07 11:40:00 - Temperature_GF_Corridor changed from 22.0 to 18.0
+2015-10-07 11:40:00 - Temperature_FF_Child updated to 20.9
+2015-10-07 11:40:00 - Temperature_FF_Bed updated to 18.2
+2015-10-07 11:40:00 - Temperature_GF_Toilet changed from 17.8 to 21.9
+2015-10-07 11:40:00 - Temperature_GF_Living changed from 19.6 to 21.4
+2015-10-07 11:40:00 - Temperature_GF_Kitchen changed from 20.6 to 21.6
+2015-10-07 11:40:00 - Temperature_FF_Bath changed from 22.4 to 19.1
+2015-10-07 11:40:00 - Temperature_FF_Office changed from 19.3 to 21.0
+2015-10-07 11:40:00 - Temperature_FF_Child changed from 22.2 to 20.9
+2015-10-07 11:40:00 - Temperature_FF_Bed changed from 20.7 to 18.2
+2015-10-07 11:40:23 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 11:40:23 - Weather_Temperature updated to 15
+2015-10-07 11:40:23 - Weather_LastUpdate updated to 2015-10-07T11:40:23
+2015-10-07 11:40:23 - Weather_LastUpdate changed from 2015-10-07T11:39:23 to 2015-10-07T11:40:23
+2015-10-07 11:41:23 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 11:41:23 - Weather_Temperature updated to 15
+2015-10-07 11:41:23 - Weather_LastUpdate updated to 2015-10-07T11:41:23
+2015-10-07 11:41:23 - Weather_LastUpdate changed from 2015-10-07T11:40:23 to 2015-10-07T11:41:23
+2015-10-07 11:42:23 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 11:42:23 - Weather_Temperature updated to 15
+2015-10-07 11:42:23 - Weather_LastUpdate updated to 2015-10-07T11:42:23
+2015-10-07 11:42:23 - Weather_LastUpdate changed from 2015-10-07T11:41:23 to 2015-10-07T11:42:23
+2015-10-07 11:42:53 - CurrentDate updated to 2015-10-07T11:42:53
+2015-10-07 11:42:53 - CurrentDate changed from 2015-10-07T11:27:53 to 2015-10-07T11:42:53
+2015-10-07 11:43:23 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 11:43:23 - Weather_Temperature updated to 15
+2015-10-07 11:43:23 - Weather_LastUpdate updated to 2015-10-07T11:43:23
+2015-10-07 11:43:23 - Weather_LastUpdate changed from 2015-10-07T11:42:23 to 2015-10-07T11:43:23
+2015-10-07 11:44:23 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 11:44:23 - Weather_Temperature updated to 15
+2015-10-07 11:44:23 - Weather_LastUpdate updated to 2015-10-07T11:44:23
+2015-10-07 11:44:23 - Weather_LastUpdate changed from 2015-10-07T11:43:23 to 2015-10-07T11:44:23
+2015-10-07 11:45:00 - Temperature_GF_Corridor updated to 18.1
+2015-10-07 11:45:00 - Temperature_GF_Toilet updated to 19.3
+2015-10-07 11:45:00 - Temperature_GF_Living updated to 19.4
+2015-10-07 11:45:00 - Temperature_GF_Kitchen updated to 20.4
+2015-10-07 11:45:00 - Temperature_GF_Corridor changed from 18.0 to 18.1
+2015-10-07 11:45:00 - Temperature_FF_Bath updated to 18.6
+2015-10-07 11:45:00 - Temperature_FF_Office updated to 21.1
+2015-10-07 11:45:00 - Temperature_GF_Toilet changed from 21.9 to 19.3
+2015-10-07 11:45:00 - Temperature_FF_Child updated to 20.9
+2015-10-07 11:45:00 - Temperature_FF_Bed updated to 18.2
+2015-10-07 11:45:00 - Temperature_GF_Living changed from 21.4 to 19.4
+2015-10-07 11:45:00 - Temperature_GF_Kitchen changed from 21.6 to 20.4
+2015-10-07 11:45:00 - Temperature_FF_Bath changed from 19.1 to 18.6
+2015-10-07 11:45:00 - Temperature_FF_Office changed from 21.0 to 21.1
+2015-10-07 11:45:23 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 11:45:23 - Weather_Temperature updated to 15
+2015-10-07 11:45:23 - Weather_LastUpdate updated to 2015-10-07T11:45:23
+2015-10-07 11:45:23 - Weather_LastUpdate changed from 2015-10-07T11:44:23 to 2015-10-07T11:45:23
+2015-10-07 11:46:23 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 11:46:23 - Weather_Temperature updated to 15
+2015-10-07 11:46:23 - Weather_LastUpdate updated to 2015-10-07T11:46:23
+2015-10-07 11:46:23 - Weather_LastUpdate changed from 2015-10-07T11:45:23 to 2015-10-07T11:46:23
+2015-10-07 11:47:23 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 11:47:23 - Weather_Temperature updated to 15
+2015-10-07 11:47:23 - Weather_LastUpdate updated to 2015-10-07T11:47:23
+2015-10-07 11:47:23 - Weather_LastUpdate changed from 2015-10-07T11:46:23 to 2015-10-07T11:47:23
+2015-10-07 11:48:23 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 11:48:23 - Weather_Temperature updated to 15
+2015-10-07 11:48:23 - Weather_LastUpdate updated to 2015-10-07T11:48:23
+2015-10-07 11:48:23 - Weather_LastUpdate changed from 2015-10-07T11:47:23 to 2015-10-07T11:48:23
+2015-10-07 11:49:23 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 11:49:23 - Weather_Temperature updated to 15
+2015-10-07 11:49:23 - Weather_LastUpdate updated to 2015-10-07T11:49:23
+2015-10-07 11:49:23 - Weather_LastUpdate changed from 2015-10-07T11:48:23 to 2015-10-07T11:49:23
+2015-10-07 11:50:00 - Temperature_GF_Corridor updated to 17.7
+2015-10-07 11:50:00 - Temperature_GF_Toilet updated to 20.2
+2015-10-07 11:50:00 - Temperature_GF_Living updated to 18.5
+2015-10-07 11:50:00 - Temperature_GF_Kitchen updated to 21.6
+2015-10-07 11:50:00 - Temperature_FF_Bath updated to 20.3
+2015-10-07 11:50:00 - Temperature_FF_Office updated to 17.6
+2015-10-07 11:50:00 - Temperature_FF_Child updated to 17.6
+2015-10-07 11:50:00 - Temperature_FF_Bed updated to 17.7
+2015-10-07 11:50:00 - Temperature_GF_Corridor changed from 18.1 to 17.7
+2015-10-07 11:50:00 - Temperature_GF_Toilet changed from 19.3 to 20.2
+2015-10-07 11:50:00 - Temperature_GF_Living changed from 19.4 to 18.5
+2015-10-07 11:50:00 - Temperature_GF_Kitchen changed from 20.4 to 21.6
+2015-10-07 11:50:00 - Temperature_FF_Bath changed from 18.6 to 20.3
+2015-10-07 11:50:00 - Temperature_FF_Office changed from 21.1 to 17.6
+2015-10-07 11:50:00 - Temperature_FF_Child changed from 20.9 to 17.6
+2015-10-07 11:50:00 - Temperature_FF_Bed changed from 18.2 to 17.7
+2015-10-07 11:50:23 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 11:50:23 - Weather_Temperature updated to 15
+2015-10-07 11:50:23 - Weather_LastUpdate updated to 2015-10-07T11:50:23
+2015-10-07 11:50:23 - Weather_LastUpdate changed from 2015-10-07T11:49:23 to 2015-10-07T11:50:23
+2015-10-07 11:51:23 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 11:51:23 - Weather_Temperature updated to 15
+2015-10-07 11:51:23 - Weather_LastUpdate updated to 2015-10-07T11:51:23
+2015-10-07 11:51:23 - Weather_LastUpdate changed from 2015-10-07T11:50:23 to 2015-10-07T11:51:23
+2015-10-07 11:51:26 - Item 'Light_C_Workshop' received command ON
+2015-10-07 11:51:26 - Light_C_Workshop updated to ON
+2015-10-07 11:51:26 - Light_C_Workshop changed from OFF to ON
+2015-10-07 11:52:23 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 11:52:23 - Weather_Temperature updated to 15
+2015-10-07 11:52:23 - Weather_LastUpdate updated to 2015-10-07T11:52:23
+2015-10-07 11:52:23 - Weather_LastUpdate changed from 2015-10-07T11:51:23 to 2015-10-07T11:52:23
+2015-10-07 11:52:47 - Item 'Light_GF_Living_Table' received command 79
+2015-10-07 11:52:47 - Light_GF_Living_Table updated to 79
+2015-10-07 11:52:47 - Light_GF_Living_Table changed from 100 to 79
+2015-10-07 11:52:47 - Item 'Light_GF_Living_Table' received command 65
+2015-10-07 11:52:47 - Light_GF_Living_Table updated to 65
+2015-10-07 11:52:47 - Light_GF_Living_Table changed from 79 to 65
+2015-10-07 11:53:03 - Item 'Heating_GF_Living' received command ON
+2015-10-07 11:53:03 - Heating_GF_Living updated to ON
+2015-10-07 11:53:03 - Heating_GF_Living changed from OFF to ON
+2015-10-07 11:53:23 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 11:53:23 - Weather_Temperature updated to 15
+2015-10-07 11:53:23 - Weather_LastUpdate updated to 2015-10-07T11:53:23
+2015-10-07 11:53:23 - Weather_LastUpdate changed from 2015-10-07T11:52:23 to 2015-10-07T11:53:23
+2015-10-07 11:54:50 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 11:54:50 - Weather_Temperature updated to 15
+2015-10-07 11:54:50 - Weather_LastUpdate updated to 2015-10-07T11:54:50
+2015-10-07 11:54:50 - Weather_LastUpdate changed from 2015-10-07T11:53:23 to 2015-10-07T11:54:50
+2015-10-07 11:55:00 - Temperature_GF_Corridor updated to 19.4
+2015-10-07 11:55:00 - Temperature_GF_Toilet updated to 18.5
+2015-10-07 11:55:00 - Temperature_GF_Living updated to 19.9
+2015-10-07 11:55:00 - Temperature_GF_Kitchen updated to 18.5
+2015-10-07 11:55:00 - Temperature_FF_Bath updated to 18.5
+2015-10-07 11:55:00 - Temperature_FF_Office updated to 17.8
+2015-10-07 11:55:00 - Temperature_FF_Child updated to 20.6
+2015-10-07 11:55:00 - Temperature_FF_Bed updated to 17.9
+2015-10-07 11:55:00 - Temperature_GF_Corridor changed from 17.7 to 19.4
+2015-10-07 11:55:00 - Temperature_GF_Toilet changed from 20.2 to 18.5
+2015-10-07 11:55:00 - Temperature_GF_Living changed from 18.5 to 19.9
+2015-10-07 11:55:00 - Temperature_GF_Kitchen changed from 21.6 to 18.5
+2015-10-07 11:55:00 - Temperature_FF_Bath changed from 20.3 to 18.5
+2015-10-07 11:55:00 - Temperature_FF_Office changed from 17.6 to 17.8
+2015-10-07 11:55:00 - Temperature_FF_Child changed from 17.6 to 20.6
+2015-10-07 11:55:00 - Temperature_FF_Bed changed from 17.7 to 17.9
+2015-10-07 11:55:35 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 11:55:35 - Weather_Temperature updated to 15
+2015-10-07 11:55:35 - Weather_LastUpdate updated to 2015-10-07T11:55:35
+2015-10-07 11:55:35 - Weather_LastUpdate changed from 2015-10-07T11:54:50 to 2015-10-07T11:55:35
+2015-10-07 12:22:52 - Thing 'yahooweather:weather:berlin' has been added.
+2015-10-07 12:22:52 - 'yahooweather:weather:berlin' updated: INITIALIZING
+2015-10-07 12:22:52 - 'yahooweather:weather:berlin' changed from UNINITIALIZED to INITIALIZING
+2015-10-07 12:22:52 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 12:22:52 - 'yahooweather:weather:berlin' changed from INITIALIZING to ONLINE
+2015-10-07 12:22:52 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 12:22:52 - Thing 'astro:sun:home' has been added.
+2015-10-07 12:22:52 - 'astro:sun:home' updated: INITIALIZING
+2015-10-07 12:22:52 - 'astro:sun:home' changed from UNINITIALIZED to INITIALIZING
+2015-10-07 12:22:52 - 'astro:sun:home' updated: ONLINE
+2015-10-07 12:22:52 - 'astro:sun:home' changed from INITIALIZING to ONLINE
+2015-10-07 12:22:53 - Link 'Weather_Temperature-yahooweather:weather:berlin:temperature' has been added.
+2015-10-07 12:22:53 - Link 'Sun_Elevation-astro:sun:home:position#elevation' has been added.
+2015-10-07 12:22:55 - Sun_Elevation updated to 31.72
+2015-10-07 12:22:55 - Sun_Elevation changed from NULL to 31.72
+2015-10-07 12:23:03 - Light_GF_Living_Table updated to OFF
+2015-10-07 12:23:03 - Light_GF_Corridor_Ceiling updated to ON
+2015-10-07 12:23:03 - Light_GF_Kitchen_Ceiling updated to ON
+2015-10-07 12:23:03 - Light_GF_Living_Table changed from NULL to OFF
+2015-10-07 12:23:03 - Light_GF_Kitchen_Table updated to ON
+2015-10-07 12:23:03 - Light_GF_Corridor_Ceiling changed from NULL to ON
+2015-10-07 12:23:03 - Light_GF_Kitchen_Ceiling changed from NULL to ON
+2015-10-07 12:23:03 - Light_GF_Corridor_Wardrobe updated to OFF
+2015-10-07 12:23:03 - Light_GF_Toilet_Ceiling updated to OFF
+2015-10-07 12:23:03 - Light_GF_Toilet_Mirror updated to ON
+2015-10-07 12:23:03 - Light_FF_Bath_Ceiling updated to OFF
+2015-10-07 12:23:03 - Light_FF_Bath_Mirror updated to ON
+2015-10-07 12:23:03 - Light_FF_Corridor_Ceiling updated to OFF
+2015-10-07 12:23:03 - Light_GF_Kitchen_Table changed from NULL to ON
+2015-10-07 12:23:03 - Light_FF_Office_Ceiling updated to OFF
+2015-10-07 12:23:03 - Light_FF_Child_Ceiling updated to ON
+2015-10-07 12:23:03 - Light_FF_Bed_Ceiling updated to OFF
+2015-10-07 12:23:03 - Light_C_Corridor_Ceiling updated to OFF
+2015-10-07 12:23:03 - Light_C_Staircase updated to OFF
+2015-10-07 12:23:03 - Light_C_Washing_Ceiling updated to OFF
+2015-10-07 12:23:03 - Light_C_Workshop updated to OFF
+2015-10-07 12:23:03 - Light_Garden_Garage updated to OFF
+2015-10-07 12:23:03 - Light_Garden_Terrace updated to OFF
+2015-10-07 12:23:03 - Light_GF_Corridor_Wardrobe changed from NULL to OFF
+2015-10-07 12:23:03 - Light_GF_Toilet_Ceiling changed from NULL to OFF
+2015-10-07 12:23:03 - Light_GF_Toilet_Mirror changed from NULL to ON
+2015-10-07 12:23:03 - Light_FF_Bath_Ceiling changed from NULL to OFF
+2015-10-07 12:23:03 - Light_FF_Bath_Mirror changed from NULL to ON
+2015-10-07 12:23:03 - Heating_GF_Corridor updated to ON
+2015-10-07 12:23:03 - Light_FF_Corridor_Ceiling changed from NULL to OFF
+2015-10-07 12:23:03 - Heating_GF_Toilet updated to OFF
+2015-10-07 12:23:03 - Heating_GF_Living updated to ON
+2015-10-07 12:23:03 - Heating_GF_Kitchen updated to OFF
+2015-10-07 12:23:03 - Heating_FF_Bath updated to OFF
+2015-10-07 12:23:03 - Heating_FF_Office updated to OFF
+2015-10-07 12:23:03 - Heating_FF_Child updated to OFF
+2015-10-07 12:23:03 - Heating_FF_Bed updated to OFF
+2015-10-07 12:23:03 - Temperature_Setpoint updated to 22
+2015-10-07 12:23:03 - Light_FF_Office_Ceiling changed from NULL to OFF
+2015-10-07 12:23:03 - Light_FF_Child_Ceiling changed from NULL to ON
+2015-10-07 12:23:03 - Window_GF_Frontdoor updated to OPEN
+2015-10-07 12:23:03 - Light_FF_Bed_Ceiling changed from NULL to OFF
+2015-10-07 12:23:03 - Window_GF_Kitchen updated to OPEN
+2015-10-07 12:23:03 - Light_C_Corridor_Ceiling changed from NULL to OFF
+2015-10-07 12:23:03 - Light_C_Staircase changed from NULL to OFF
+2015-10-07 12:23:03 - Light_C_Washing_Ceiling changed from NULL to OFF
+2015-10-07 12:23:03 - Window_GF_Living updated to OPEN
+2015-10-07 12:23:03 - Light_C_Workshop changed from NULL to OFF
+2015-10-07 12:23:03 - Window_GF_Toilet updated to CLOSED
+2015-10-07 12:23:03 - Window_FF_Bath updated to OPEN
+2015-10-07 12:23:03 - Light_Garden_Garage changed from NULL to OFF
+2015-10-07 12:23:03 - Window_FF_Bed updated to CLOSED
+2015-10-07 12:23:03 - Light_Garden_Terrace changed from NULL to OFF
+2015-10-07 12:23:03 - Window_FF_Office_Window updated to CLOSED
+2015-10-07 12:23:03 - Window_FF_Office_Door updated to OPEN
+2015-10-07 12:23:03 - Garage_Door updated to OPEN
+2015-10-07 12:23:03 - mqttsw1 updated to CLOSED
+2015-10-07 12:23:03 - mqttsw2 updated to OPEN
+2015-10-07 12:23:03 - DemoLocation updated to 52.5200066,13.4049540
+2015-10-07 12:23:03 - Heating_GF_Corridor changed from OFF to ON
+2015-10-07 12:23:03 - Temperature_GF_Corridor updated to 22.2
+2015-10-07 12:23:03 - Heating_FF_Bath changed from ON to OFF
+2015-10-07 12:23:03 - Temperature_Setpoint changed from NULL to 22
+2015-10-07 12:23:03 - Temperature_GF_Toilet updated to 22.3
+2015-10-07 12:23:03 - Temperature_GF_Living updated to 20.2
+2015-10-07 12:23:03 - Temperature_GF_Kitchen updated to 21.1
+2015-10-07 12:23:03 - Temperature_FF_Bath updated to 17.6
+2015-10-07 12:23:03 - Temperature_FF_Office updated to 19.9
+2015-10-07 12:23:03 - Temperature_FF_Child updated to 20.6
+2015-10-07 12:23:03 - Temperature_FF_Bed updated to 17.7
+2015-10-07 12:23:03 - Window_GF_Frontdoor changed from NULL to OPEN
+2015-10-07 12:23:03 - Window_GF_Kitchen changed from NULL to OPEN
+2015-10-07 12:23:03 - Window_GF_Living changed from NULL to OPEN
+2015-10-07 12:23:03 - Window_FF_Bath changed from NULL to OPEN
+2015-10-07 12:23:03 - Window_FF_Bed changed from NULL to CLOSED
+2015-10-07 12:23:03 - Window_FF_Office_Window changed from NULL to CLOSED
+2015-10-07 12:23:03 - Window_FF_Office_Door changed from NULL to OPEN
+2015-10-07 12:23:03 - Garage_Door changed from NULL to OPEN
+2015-10-07 12:23:03 - DemoLocation changed from NULL to 52.5200066,13.4049540
+2015-10-07 12:23:03 - Temperature_GF_Corridor changed from 19.39999999999999857891452847979962825775146484375 to 22.2
+2015-10-07 12:23:03 - Temperature_GF_Toilet changed from 18.5 to 22.3
+2015-10-07 12:23:03 - Temperature_GF_Living changed from 19.89999999999999857891452847979962825775146484375 to 20.2
+2015-10-07 12:23:03 - Temperature_GF_Kitchen changed from 18.5 to 21.1
+2015-10-07 12:23:03 - Temperature_FF_Bath changed from 18.5 to 17.6
+2015-10-07 12:23:03 - Temperature_FF_Office changed from 17.800000000000000710542735760100185871124267578125 to 19.9
+2015-10-07 12:23:03 - Temperature_FF_Child changed from 20.60000000000000142108547152020037174224853515625 to 20.6
+2015-10-07 12:23:03 - Temperature_FF_Bed changed from 17.89999999999999857891452847979962825775146484375 to 17.7
+2015-10-07 12:23:03 - Weather_Temp_Max updated to 15
+2015-10-07 12:23:03 - Weather_Temp_Min updated to 14
+2015-10-07 12:23:52 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 12:23:52 - Weather_Temperature updated to 15
+2015-10-07 12:23:52 - Weather_LastUpdate updated to 2015-10-07T12:23:52
+2015-10-07 12:23:52 - Weather_LastUpdate changed from NULL to 2015-10-07T12:23:52
+2015-10-07 12:23:55 - Sun_Elevation updated to 31.74
+2015-10-07 12:23:55 - Sun_Elevation changed from 31.72 to 31.74
+2015-10-07 12:24:52 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 12:24:52 - Weather_Temperature updated to 15
+2015-10-07 12:24:52 - Weather_LastUpdate updated to 2015-10-07T12:24:52
+2015-10-07 12:24:52 - Weather_LastUpdate changed from 2015-10-07T12:23:52 to 2015-10-07T12:24:52
+2015-10-07 12:24:55 - Sun_Elevation updated to 31.77
+2015-10-07 12:24:55 - Sun_Elevation changed from 31.74 to 31.77
+2015-10-07 12:25:00 - Temperature_GF_Corridor updated to 18.3
+2015-10-07 12:25:00 - Temperature_GF_Toilet updated to 20.3
+2015-10-07 12:25:00 - Temperature_GF_Living updated to 19.7
+2015-10-07 12:25:00 - Temperature_GF_Kitchen updated to 21.0
+2015-10-07 12:25:00 - Temperature_FF_Bath updated to 22.4
+2015-10-07 12:25:00 - Temperature_FF_Office updated to 17.8
+2015-10-07 12:25:00 - Temperature_FF_Child updated to 18.4
+2015-10-07 12:25:00 - Temperature_FF_Bed updated to 18.4
+2015-10-07 12:25:00 - Temperature_GF_Corridor changed from 22.2 to 18.3
+2015-10-07 12:25:00 - Temperature_GF_Toilet changed from 22.3 to 20.3
+2015-10-07 12:25:00 - Temperature_GF_Living changed from 20.2 to 19.7
+2015-10-07 12:25:00 - Temperature_GF_Kitchen changed from 21.1 to 21.0
+2015-10-07 12:25:00 - Temperature_FF_Bath changed from 17.6 to 22.4
+2015-10-07 12:25:00 - Temperature_FF_Office changed from 19.9 to 17.8
+2015-10-07 12:25:00 - Temperature_FF_Child changed from 20.6 to 18.4
+2015-10-07 12:25:00 - Temperature_FF_Bed changed from 17.7 to 18.4
+2015-10-07 12:25:52 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 12:25:52 - Weather_Temperature updated to 15
+2015-10-07 12:25:52 - Weather_LastUpdate updated to 2015-10-07T12:25:52
+2015-10-07 12:25:52 - Weather_LastUpdate changed from 2015-10-07T12:24:52 to 2015-10-07T12:25:52
+2015-10-07 12:25:55 - Sun_Elevation updated to 31.79
+2015-10-07 12:25:55 - Sun_Elevation changed from 31.77 to 31.79
+2015-10-07 12:26:52 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 12:26:52 - Weather_Temperature updated to 15
+2015-10-07 12:26:52 - Weather_LastUpdate updated to 2015-10-07T12:26:52
+2015-10-07 12:26:52 - Weather_LastUpdate changed from 2015-10-07T12:25:52 to 2015-10-07T12:26:52
+2015-10-07 12:26:55 - Sun_Elevation updated to 31.81
+2015-10-07 12:26:55 - Sun_Elevation changed from 31.79 to 31.81
+2015-10-07 12:27:52 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 12:27:52 - Weather_Temperature updated to 15
+2015-10-07 12:27:52 - Weather_LastUpdate updated to 2015-10-07T12:27:52
+2015-10-07 12:27:52 - Weather_LastUpdate changed from 2015-10-07T12:26:52 to 2015-10-07T12:27:52
+2015-10-07 12:27:55 - Sun_Elevation updated to 31.83
+2015-10-07 12:27:55 - Sun_Elevation changed from 31.81 to 31.83
+2015-10-07 12:28:52 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 12:28:52 - Weather_Temperature updated to 15
+2015-10-07 12:28:52 - Weather_LastUpdate updated to 2015-10-07T12:28:52
+2015-10-07 12:28:52 - Weather_LastUpdate changed from 2015-10-07T12:27:52 to 2015-10-07T12:28:52
+2015-10-07 12:28:55 - Sun_Elevation updated to 31.85
+2015-10-07 12:28:55 - Sun_Elevation changed from 31.83 to 31.85
+2015-10-07 12:29:52 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 12:29:52 - Weather_Temperature updated to 15
+2015-10-07 12:29:52 - Weather_LastUpdate updated to 2015-10-07T12:29:52
+2015-10-07 12:29:52 - Weather_LastUpdate changed from 2015-10-07T12:28:52 to 2015-10-07T12:29:52
+2015-10-07 12:29:55 - Sun_Elevation updated to 31.87
+2015-10-07 12:29:55 - Sun_Elevation changed from 31.85 to 31.87
+2015-10-07 12:30:00 - Temperature_GF_Corridor updated to 18.8
+2015-10-07 12:30:00 - Temperature_GF_Toilet updated to 19.0
+2015-10-07 12:30:00 - Temperature_GF_Living updated to 18.2
+2015-10-07 12:30:00 - Temperature_GF_Kitchen updated to 19.3
+2015-10-07 12:30:00 - Temperature_FF_Bath updated to 20.6
+2015-10-07 12:30:00 - Temperature_FF_Office updated to 20.2
+2015-10-07 12:30:00 - Temperature_GF_Corridor changed from 18.3 to 18.8
+2015-10-07 12:30:00 - Temperature_FF_Child updated to 22.0
+2015-10-07 12:30:00 - Temperature_FF_Bed updated to 20.8
+2015-10-07 12:30:00 - Temperature_GF_Toilet changed from 20.3 to 19.0
+2015-10-07 12:30:00 - Temperature_GF_Living changed from 19.7 to 18.2
+2015-10-07 12:30:00 - Temperature_GF_Kitchen changed from 21.0 to 19.3
+2015-10-07 12:30:00 - Temperature_FF_Bath changed from 22.4 to 20.6
+2015-10-07 12:30:00 - Temperature_FF_Office changed from 17.8 to 20.2
+2015-10-07 12:30:00 - Temperature_FF_Child changed from 18.4 to 22.0
+2015-10-07 12:30:00 - Temperature_FF_Bed changed from 18.4 to 20.8
+2015-10-07 12:30:52 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 12:30:52 - Weather_Temperature updated to 15
+2015-10-07 12:30:52 - Weather_LastUpdate updated to 2015-10-07T12:30:52
+2015-10-07 12:30:52 - Weather_LastUpdate changed from 2015-10-07T12:29:52 to 2015-10-07T12:30:52
+2015-10-07 12:30:55 - Sun_Elevation updated to 31.89
+2015-10-07 12:30:55 - Sun_Elevation changed from 31.87 to 31.89
+2015-10-07 12:31:52 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 12:31:52 - Weather_Temperature updated to 15
+2015-10-07 12:31:52 - Weather_LastUpdate updated to 2015-10-07T12:31:52
+2015-10-07 12:31:52 - Weather_LastUpdate changed from 2015-10-07T12:30:52 to 2015-10-07T12:31:52
+2015-10-07 12:31:55 - Sun_Elevation updated to 31.91
+2015-10-07 12:31:55 - Sun_Elevation changed from 31.89 to 31.91
+2015-10-07 12:33:15 - Thing 'yahooweather:weather:berlin' has been added.
+2015-10-07 12:33:15 - 'yahooweather:weather:berlin' updated: INITIALIZING
+2015-10-07 12:33:15 - 'yahooweather:weather:berlin' changed from UNINITIALIZED to INITIALIZING
+2015-10-07 12:33:15 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 12:33:15 - 'yahooweather:weather:berlin' changed from INITIALIZING to ONLINE
+2015-10-07 12:33:16 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 12:33:16 - Thing 'astro:sun:home' has been added.
+2015-10-07 12:33:16 - 'astro:sun:home' updated: INITIALIZING
+2015-10-07 12:33:16 - 'astro:sun:home' changed from UNINITIALIZED to INITIALIZING
+2015-10-07 12:33:16 - 'astro:sun:home' updated: ONLINE
+2015-10-07 12:33:16 - 'astro:sun:home' changed from INITIALIZING to ONLINE
+2015-10-07 12:33:17 - Link 'Weather_Temperature-yahooweather:weather:berlin:temperature' has been added.
+2015-10-07 12:33:17 - Link 'Sun_Elevation-astro:sun:home:position#elevation' has been added.
+2015-10-07 12:33:19 - Sun_Elevation updated to 31.93
+2015-10-07 12:33:25 - Sun_Elevation changed from NULL to 31.93
+2015-10-07 12:33:25 - Light_GF_Living_Table updated to ON
+2015-10-07 12:33:25 - Light_GF_Corridor_Ceiling updated to ON
+2015-10-07 12:33:25 - Light_GF_Kitchen_Ceiling updated to ON
+2015-10-07 12:33:25 - Light_GF_Kitchen_Table updated to OFF
+2015-10-07 12:33:25 - Light_GF_Corridor_Wardrobe updated to OFF
+2015-10-07 12:33:25 - Light_GF_Toilet_Ceiling updated to OFF
+2015-10-07 12:33:25 - Light_GF_Toilet_Mirror updated to OFF
+2015-10-07 12:33:25 - Light_FF_Bath_Ceiling updated to OFF
+2015-10-07 12:33:25 - Light_FF_Bath_Mirror updated to OFF
+2015-10-07 12:33:25 - Light_FF_Corridor_Ceiling updated to OFF
+2015-10-07 12:33:25 - Light_FF_Office_Ceiling updated to OFF
+2015-10-07 12:33:25 - Light_GF_Living_Table changed from NULL to ON
+2015-10-07 12:33:25 - Light_FF_Child_Ceiling updated to OFF
+2015-10-07 12:33:25 - Light_FF_Bed_Ceiling updated to ON
+2015-10-07 12:33:25 - Light_C_Corridor_Ceiling updated to ON
+2015-10-07 12:33:25 - Light_C_Staircase updated to OFF
+2015-10-07 12:33:25 - Light_C_Washing_Ceiling updated to OFF
+2015-10-07 12:33:25 - Light_C_Workshop updated to OFF
+2015-10-07 12:33:25 - Light_Garden_Garage updated to ON
+2015-10-07 12:33:25 - Light_Garden_Terrace updated to ON
+2015-10-07 12:33:25 - Heating_GF_Corridor updated to OFF
+2015-10-07 12:33:25 - Heating_GF_Toilet updated to OFF
+2015-10-07 12:33:25 - Heating_GF_Living updated to OFF
+2015-10-07 12:33:25 - Heating_GF_Kitchen updated to OFF
+2015-10-07 12:33:25 - Heating_FF_Bath updated to ON
+2015-10-07 12:33:25 - Light_GF_Corridor_Ceiling changed from NULL to ON
+2015-10-07 12:33:25 - Heating_FF_Office updated to OFF
+2015-10-07 12:33:25 - Heating_FF_Child updated to OFF
+2015-10-07 12:33:25 - Heating_FF_Bed updated to OFF
+2015-10-07 12:33:25 - Temperature_Setpoint updated to 22
+2015-10-07 12:33:25 - Light_GF_Kitchen_Ceiling changed from NULL to ON
+2015-10-07 12:33:25 - Window_GF_Frontdoor updated to OPEN
+2015-10-07 12:33:25 - Window_GF_Kitchen updated to OPEN
+2015-10-07 12:33:25 - Window_GF_Living updated to CLOSED
+2015-10-07 12:33:25 - Window_GF_Toilet updated to OPEN
+2015-10-07 12:33:25 - Window_FF_Bath updated to CLOSED
+2015-10-07 12:33:25 - Window_FF_Bed updated to OPEN
+2015-10-07 12:33:25 - Window_FF_Office_Window updated to OPEN
+2015-10-07 12:33:25 - Light_GF_Kitchen_Table changed from NULL to OFF
+2015-10-07 12:33:25 - Window_FF_Office_Door updated to OPEN
+2015-10-07 12:33:25 - Garage_Door updated to OPEN
+2015-10-07 12:33:25 - mqttsw1 updated to CLOSED
+2015-10-07 12:33:25 - mqttsw2 updated to CLOSED
+2015-10-07 12:33:25 - DemoLocation updated to 52.5200066,13.4049540
+2015-10-07 12:33:25 - Temperature_GF_Corridor updated to 21.0
+2015-10-07 12:33:25 - Temperature_GF_Toilet updated to 21.4
+2015-10-07 12:33:25 - Temperature_GF_Living updated to 20.3
+2015-10-07 12:33:25 - Temperature_GF_Kitchen updated to 22.5
+2015-10-07 12:33:25 - Temperature_FF_Bath updated to 18.6
+2015-10-07 12:33:25 - Light_GF_Corridor_Wardrobe changed from NULL to OFF
+2015-10-07 12:33:25 - Temperature_FF_Office updated to 22.0
+2015-10-07 12:33:25 - Temperature_FF_Child updated to 22.0
+2015-10-07 12:33:25 - Light_GF_Toilet_Ceiling changed from NULL to OFF
+2015-10-07 12:33:25 - Temperature_FF_Bed updated to 22.3
+2015-10-07 12:33:25 - Light_GF_Toilet_Mirror changed from NULL to OFF
+2015-10-07 12:33:25 - Light_FF_Bath_Ceiling changed from NULL to OFF
+2015-10-07 12:33:25 - Light_FF_Bath_Mirror changed from NULL to OFF
+2015-10-07 12:33:25 - Light_FF_Corridor_Ceiling changed from NULL to OFF
+2015-10-07 12:33:26 - Light_FF_Office_Ceiling changed from NULL to OFF
+2015-10-07 12:33:26 - Light_FF_Child_Ceiling changed from NULL to OFF
+2015-10-07 12:33:26 - Light_FF_Bed_Ceiling changed from NULL to ON
+2015-10-07 12:33:26 - Light_C_Corridor_Ceiling changed from NULL to ON
+2015-10-07 12:33:26 - Light_C_Staircase changed from NULL to OFF
+2015-10-07 12:33:26 - Light_C_Washing_Ceiling changed from NULL to OFF
+2015-10-07 12:33:26 - Light_C_Workshop changed from NULL to OFF
+2015-10-07 12:33:26 - Light_Garden_Garage changed from NULL to ON
+2015-10-07 12:33:26 - Light_Garden_Terrace changed from NULL to ON
+2015-10-07 12:33:26 - Heating_GF_Corridor changed from ON to OFF
+2015-10-07 12:33:26 - Weather_Temp_Max updated to 15
+2015-10-07 12:33:26 - Weather_Temp_Min updated to 14
+2015-10-07 12:33:26 - Heating_GF_Living changed from ON to OFF
+2015-10-07 12:33:26 - Heating_FF_Bath changed from OFF to ON
+2015-10-07 12:33:26 - Temperature_Setpoint changed from NULL to 22
+2015-10-07 12:33:26 - Window_GF_Frontdoor changed from NULL to OPEN
+2015-10-07 12:33:26 - Window_GF_Kitchen changed from NULL to OPEN
+2015-10-07 12:33:26 - Window_GF_Living changed from NULL to CLOSED
+2015-10-07 12:33:26 - Window_GF_Toilet changed from CLOSED to OPEN
+2015-10-07 12:33:26 - Window_FF_Bath changed from NULL to CLOSED
+2015-10-07 12:33:26 - Window_FF_Bed changed from NULL to OPEN
+2015-10-07 12:33:26 - Window_FF_Office_Window changed from NULL to OPEN
+2015-10-07 12:33:26 - Window_FF_Office_Door changed from NULL to OPEN
+2015-10-07 12:33:26 - Garage_Door changed from NULL to OPEN
+2015-10-07 12:33:26 - DemoLocation changed from NULL to 52.5200066,13.4049540
+2015-10-07 12:33:26 - Temperature_GF_Corridor changed from 18.800000000000000710542735760100185871124267578125 to 21.0
+2015-10-07 12:33:26 - Temperature_GF_Toilet changed from 19 to 21.4
+2015-10-07 12:33:26 - Temperature_GF_Living changed from 18.199999999999999289457264239899814128875732421875 to 20.3
+2015-10-07 12:33:26 - Temperature_GF_Kitchen changed from 19.300000000000000710542735760100185871124267578125 to 22.5
+2015-10-07 12:33:26 - Temperature_FF_Bath changed from 20.60000000000000142108547152020037174224853515625 to 18.6
+2015-10-07 12:33:26 - Temperature_FF_Office changed from 20.199999999999999289457264239899814128875732421875 to 22.0
+2015-10-07 12:33:26 - Temperature_FF_Bed changed from 20.800000000000000710542735760100185871124267578125 to 22.3
+2015-10-07 12:34:15 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 12:34:15 - Weather_Temperature updated to 15
+2015-10-07 12:34:15 - Weather_LastUpdate updated to 2015-10-07T12:34:15
+2015-10-07 12:34:15 - Weather_LastUpdate changed from NULL to 2015-10-07T12:34:15
+2015-10-07 12:34:19 - Sun_Elevation updated to 31.95
+2015-10-07 12:34:19 - Sun_Elevation changed from 31.93 to 31.95
+2015-10-07 12:35:00 - Temperature_GF_Corridor updated to 17.9
+2015-10-07 12:35:00 - Temperature_GF_Toilet updated to 21.5
+2015-10-07 12:35:00 - Temperature_GF_Living updated to 17.8
+2015-10-07 12:35:00 - Temperature_GF_Kitchen updated to 22.0
+2015-10-07 12:35:00 - Temperature_FF_Bath updated to 21.5
+2015-10-07 12:35:00 - Temperature_FF_Office updated to 21.7
+2015-10-07 12:35:00 - Temperature_FF_Child updated to 21.3
+2015-10-07 12:35:00 - Temperature_FF_Bed updated to 21.4
+2015-10-07 12:35:00 - Temperature_GF_Corridor changed from 21.0 to 17.9
+2015-10-07 12:35:00 - Temperature_GF_Toilet changed from 21.4 to 21.5
+2015-10-07 12:35:00 - Temperature_GF_Living changed from 20.3 to 17.8
+2015-10-07 12:35:00 - Temperature_GF_Kitchen changed from 22.5 to 22.0
+2015-10-07 12:35:00 - Temperature_FF_Bath changed from 18.6 to 21.5
+2015-10-07 12:35:00 - Temperature_FF_Office changed from 22.0 to 21.7
+2015-10-07 12:35:00 - Temperature_FF_Child changed from 22.0 to 21.3
+2015-10-07 12:35:00 - Temperature_FF_Bed changed from 22.3 to 21.4
+2015-10-07 12:35:15 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 12:35:15 - Weather_Temperature updated to 15
+2015-10-07 12:35:15 - Weather_LastUpdate updated to 2015-10-07T12:35:15
+2015-10-07 12:35:15 - Weather_LastUpdate changed from 2015-10-07T12:34:15 to 2015-10-07T12:35:15
+2015-10-07 12:35:19 - Sun_Elevation updated to 31.97
+2015-10-07 12:35:19 - Sun_Elevation changed from 31.95 to 31.97
+2015-10-07 12:36:15 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 12:36:15 - Weather_Temperature updated to 15
+2015-10-07 12:36:15 - Weather_LastUpdate updated to 2015-10-07T12:36:15
+2015-10-07 12:36:15 - Weather_LastUpdate changed from 2015-10-07T12:35:15 to 2015-10-07T12:36:15
+2015-10-07 12:36:19 - Sun_Elevation updated to 31.98
+2015-10-07 12:36:19 - Sun_Elevation changed from 31.97 to 31.98
+2015-10-07 12:37:15 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 12:37:15 - Weather_Temperature updated to 15
+2015-10-07 12:37:15 - Weather_LastUpdate updated to 2015-10-07T12:37:15
+2015-10-07 12:37:15 - Weather_LastUpdate changed from 2015-10-07T12:36:15 to 2015-10-07T12:37:15
+2015-10-07 12:37:19 - Sun_Elevation updated to 32.00
+2015-10-07 12:37:19 - Sun_Elevation changed from 31.98 to 32.00
+2015-10-07 12:38:15 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 12:38:15 - Weather_Temperature updated to 15
+2015-10-07 12:38:15 - Weather_LastUpdate updated to 2015-10-07T12:38:15
+2015-10-07 12:38:15 - Weather_LastUpdate changed from 2015-10-07T12:37:15 to 2015-10-07T12:38:15
+2015-10-07 12:38:19 - Sun_Elevation updated to 32.01
+2015-10-07 12:38:19 - Sun_Elevation changed from 32.00 to 32.01
+2015-10-07 12:39:15 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 12:39:15 - Weather_Temperature updated to 15
+2015-10-07 12:39:15 - Weather_LastUpdate updated to 2015-10-07T12:39:15
+2015-10-07 12:39:15 - Weather_LastUpdate changed from 2015-10-07T12:38:15 to 2015-10-07T12:39:15
+2015-10-07 12:39:19 - Sun_Elevation updated to 32.02
+2015-10-07 12:39:19 - Sun_Elevation changed from 32.01 to 32.02
+2015-10-07 12:40:00 - Temperature_GF_Corridor updated to 19.1
+2015-10-07 12:40:00 - Temperature_GF_Toilet updated to 19.9
+2015-10-07 12:40:00 - Temperature_GF_Living updated to 19.4
+2015-10-07 12:40:00 - Temperature_GF_Kitchen updated to 19.6
+2015-10-07 12:40:00 - Temperature_FF_Bath updated to 22.4
+2015-10-07 12:40:00 - Temperature_FF_Office updated to 17.8
+2015-10-07 12:40:00 - Temperature_FF_Child updated to 19.6
+2015-10-07 12:40:00 - Temperature_FF_Bed updated to 22.3
+2015-10-07 12:40:00 - Temperature_GF_Corridor changed from 17.9 to 19.1
+2015-10-07 12:40:00 - Temperature_GF_Toilet changed from 21.5 to 19.9
+2015-10-07 12:40:00 - Temperature_GF_Living changed from 17.8 to 19.4
+2015-10-07 12:40:00 - Temperature_GF_Kitchen changed from 22.0 to 19.6
+2015-10-07 12:40:00 - Temperature_FF_Bath changed from 21.5 to 22.4
+2015-10-07 12:40:00 - Temperature_FF_Office changed from 21.7 to 17.8
+2015-10-07 12:40:00 - Temperature_FF_Child changed from 21.3 to 19.6
+2015-10-07 12:40:00 - Temperature_FF_Bed changed from 21.4 to 22.3
+2015-10-07 12:40:15 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 12:40:15 - Weather_Temperature updated to 15
+2015-10-07 12:40:15 - Weather_LastUpdate updated to 2015-10-07T12:40:15
+2015-10-07 12:40:15 - Weather_LastUpdate changed from 2015-10-07T12:39:15 to 2015-10-07T12:40:15
+2015-10-07 12:40:19 - Sun_Elevation updated to 32.03
+2015-10-07 12:40:19 - Sun_Elevation changed from 32.02 to 32.03
+2015-10-07 12:41:15 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 12:41:15 - Weather_Temperature updated to 15
+2015-10-07 12:41:15 - Weather_LastUpdate updated to 2015-10-07T12:41:15
+2015-10-07 12:41:15 - Weather_LastUpdate changed from 2015-10-07T12:40:15 to 2015-10-07T12:41:15
+2015-10-07 12:41:19 - Sun_Elevation updated to 32.04
+2015-10-07 12:41:19 - Sun_Elevation changed from 32.03 to 32.04
+2015-10-07 12:42:15 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 12:42:15 - Weather_Temperature updated to 15
+2015-10-07 12:42:15 - Weather_LastUpdate updated to 2015-10-07T12:42:15
+2015-10-07 12:42:15 - Weather_LastUpdate changed from 2015-10-07T12:41:15 to 2015-10-07T12:42:15
+2015-10-07 12:42:19 - Sun_Elevation updated to 32.05
+2015-10-07 12:42:19 - Sun_Elevation changed from 32.04 to 32.05
+2015-10-07 12:43:15 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 12:43:15 - Weather_Temperature updated to 15
+2015-10-07 12:43:15 - Weather_LastUpdate updated to 2015-10-07T12:43:15
+2015-10-07 12:43:15 - Weather_LastUpdate changed from 2015-10-07T12:42:15 to 2015-10-07T12:43:15
+2015-10-07 12:43:19 - Sun_Elevation updated to 32.06
+2015-10-07 12:43:19 - Sun_Elevation changed from 32.05 to 32.06
+2015-10-07 12:44:15 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 12:44:15 - Weather_Temperature updated to 15
+2015-10-07 12:44:15 - Weather_LastUpdate updated to 2015-10-07T12:44:15
+2015-10-07 12:44:15 - Weather_LastUpdate changed from 2015-10-07T12:43:15 to 2015-10-07T12:44:15
+2015-10-07 12:44:19 - Sun_Elevation updated to 32.07
+2015-10-07 12:44:19 - Sun_Elevation changed from 32.06 to 32.07
+2015-10-07 12:45:00 - Temperature_GF_Corridor updated to 19.3
+2015-10-07 12:45:00 - Temperature_GF_Toilet updated to 21.1
+2015-10-07 12:45:00 - Temperature_GF_Living updated to 18.3
+2015-10-07 12:45:00 - Temperature_GF_Kitchen updated to 21.0
+2015-10-07 12:45:00 - Temperature_FF_Bath updated to 18.7
+2015-10-07 12:45:00 - Temperature_FF_Office updated to 17.8
+2015-10-07 12:45:00 - Temperature_FF_Child updated to 20.9
+2015-10-07 12:45:00 - Temperature_FF_Bed updated to 19.0
+2015-10-07 12:45:00 - Temperature_GF_Corridor changed from 19.1 to 19.3
+2015-10-07 12:45:00 - Temperature_GF_Toilet changed from 19.9 to 21.1
+2015-10-07 12:45:00 - Temperature_GF_Living changed from 19.4 to 18.3
+2015-10-07 12:45:00 - Temperature_GF_Kitchen changed from 19.6 to 21.0
+2015-10-07 12:45:00 - Temperature_FF_Bath changed from 22.4 to 18.7
+2015-10-07 12:45:00 - Temperature_FF_Child changed from 19.6 to 20.9
+2015-10-07 12:45:00 - Temperature_FF_Bed changed from 22.3 to 19.0
+2015-10-07 12:45:15 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 12:45:15 - Weather_Temperature updated to 15
+2015-10-07 12:45:15 - Weather_LastUpdate updated to 2015-10-07T12:45:15
+2015-10-07 12:45:15 - Weather_LastUpdate changed from 2015-10-07T12:44:15 to 2015-10-07T12:45:15
+2015-10-07 12:45:19 - Sun_Elevation updated to 32.08
+2015-10-07 12:45:19 - Sun_Elevation changed from 32.07 to 32.08
+2015-10-07 12:46:15 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 12:46:15 - Weather_Temperature updated to 15
+2015-10-07 12:46:15 - Weather_LastUpdate updated to 2015-10-07T12:46:15
+2015-10-07 12:46:15 - Weather_LastUpdate changed from 2015-10-07T12:45:15 to 2015-10-07T12:46:15
+2015-10-07 12:46:19 - Sun_Elevation updated to 32.09
+2015-10-07 12:46:19 - Sun_Elevation changed from 32.08 to 32.09
+2015-10-07 12:47:15 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 12:47:15 - Weather_Temperature updated to 15
+2015-10-07 12:47:15 - Weather_LastUpdate updated to 2015-10-07T12:47:15
+2015-10-07 12:47:15 - Weather_LastUpdate changed from 2015-10-07T12:46:15 to 2015-10-07T12:47:15
+2015-10-07 12:47:19 - Sun_Elevation updated to 32.09
+2015-10-07 12:48:13 - CurrentDate updated to 2015-10-07T12:48:13
+2015-10-07 12:48:13 - CurrentDate changed from NULL to 2015-10-07T12:48:13
+2015-10-07 12:48:15 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 12:48:15 - Weather_Temperature updated to 15
+2015-10-07 12:48:15 - Weather_LastUpdate updated to 2015-10-07T12:48:15
+2015-10-07 12:48:15 - Weather_LastUpdate changed from 2015-10-07T12:47:15 to 2015-10-07T12:48:15
+2015-10-07 12:48:19 - Sun_Elevation updated to 32.10
+2015-10-07 12:48:19 - Sun_Elevation changed from 32.09 to 32.10
+2015-10-07 12:49:15 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 12:49:15 - Weather_Temperature updated to 15
+2015-10-07 12:49:15 - Weather_LastUpdate updated to 2015-10-07T12:49:15
+2015-10-07 12:49:15 - Weather_LastUpdate changed from 2015-10-07T12:48:15 to 2015-10-07T12:49:15
+2015-10-07 12:49:19 - Sun_Elevation updated to 32.10
+2015-10-07 12:50:00 - Temperature_GF_Corridor updated to 17.6
+2015-10-07 12:50:00 - Temperature_GF_Toilet updated to 22.5
+2015-10-07 12:50:00 - Temperature_GF_Living updated to 19.9
+2015-10-07 12:50:00 - Temperature_GF_Kitchen updated to 17.7
+2015-10-07 12:50:00 - Temperature_GF_Corridor changed from 19.3 to 17.6
+2015-10-07 12:50:00 - Temperature_GF_Toilet changed from 21.1 to 22.5
+2015-10-07 12:50:00 - Temperature_FF_Bath updated to 22.4
+2015-10-07 12:50:00 - Temperature_GF_Living changed from 18.3 to 19.9
+2015-10-07 12:50:00 - Temperature_FF_Office updated to 21.6
+2015-10-07 12:50:00 - Temperature_FF_Child updated to 18.4
+2015-10-07 12:50:00 - Temperature_FF_Bed updated to 17.8
+2015-10-07 12:50:00 - Temperature_GF_Kitchen changed from 21.0 to 17.7
+2015-10-07 12:50:00 - Temperature_FF_Bath changed from 18.7 to 22.4
+2015-10-07 12:50:00 - Temperature_FF_Office changed from 17.8 to 21.6
+2015-10-07 12:50:00 - Temperature_FF_Child changed from 20.9 to 18.4
+2015-10-07 12:50:00 - Temperature_FF_Bed changed from 19.0 to 17.8
+2015-10-07 12:50:15 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 12:50:15 - Weather_Temperature updated to 15
+2015-10-07 12:50:15 - Weather_LastUpdate updated to 2015-10-07T12:50:15
+2015-10-07 12:50:15 - Weather_LastUpdate changed from 2015-10-07T12:49:15 to 2015-10-07T12:50:15
+2015-10-07 12:50:19 - Sun_Elevation updated to 32.11
+2015-10-07 12:50:19 - Sun_Elevation changed from 32.10 to 32.11
+2015-10-07 12:51:15 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 12:51:15 - Weather_Temperature updated to 15
+2015-10-07 12:51:15 - Weather_LastUpdate updated to 2015-10-07T12:51:15
+2015-10-07 12:51:15 - Weather_LastUpdate changed from 2015-10-07T12:50:15 to 2015-10-07T12:51:15
+2015-10-07 12:51:19 - Sun_Elevation updated to 32.11
+2015-10-07 12:52:15 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 12:52:15 - Weather_Temperature updated to 15
+2015-10-07 12:52:15 - Weather_LastUpdate updated to 2015-10-07T12:52:15
+2015-10-07 12:52:15 - Weather_LastUpdate changed from 2015-10-07T12:51:15 to 2015-10-07T12:52:15
+2015-10-07 12:52:19 - Sun_Elevation updated to 32.11
+2015-10-07 12:53:15 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 12:53:15 - Weather_Temperature updated to 15
+2015-10-07 12:53:15 - Weather_LastUpdate updated to 2015-10-07T12:53:15
+2015-10-07 12:53:15 - Weather_LastUpdate changed from 2015-10-07T12:52:15 to 2015-10-07T12:53:15
+2015-10-07 12:53:19 - Sun_Elevation updated to 32.11
+2015-10-07 12:54:15 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 12:54:15 - Weather_Temperature updated to 15
+2015-10-07 12:54:15 - Weather_LastUpdate updated to 2015-10-07T12:54:15
+2015-10-07 12:54:15 - Weather_LastUpdate changed from 2015-10-07T12:53:15 to 2015-10-07T12:54:15
+2015-10-07 12:54:19 - Sun_Elevation updated to 32.11
+2015-10-07 12:55:00 - Temperature_GF_Corridor updated to 18.0
+2015-10-07 12:55:00 - Temperature_GF_Toilet updated to 21.8
+2015-10-07 12:55:00 - Temperature_GF_Living updated to 22.4
+2015-10-07 12:55:00 - Temperature_GF_Kitchen updated to 19.7
+2015-10-07 12:55:00 - Temperature_FF_Bath updated to 17.8
+2015-10-07 12:55:00 - Temperature_FF_Office updated to 21.1
+2015-10-07 12:55:00 - Temperature_FF_Child updated to 17.7
+2015-10-07 12:55:00 - Temperature_FF_Bed updated to 18.5
+2015-10-07 12:55:00 - Temperature_GF_Corridor changed from 17.6 to 18.0
+2015-10-07 12:55:00 - Temperature_GF_Toilet changed from 22.5 to 21.8
+2015-10-07 12:55:00 - Temperature_GF_Living changed from 19.9 to 22.4
+2015-10-07 12:55:00 - Temperature_GF_Kitchen changed from 17.7 to 19.7
+2015-10-07 12:55:00 - Temperature_FF_Bath changed from 22.4 to 17.8
+2015-10-07 12:55:00 - Temperature_FF_Office changed from 21.6 to 21.1
+2015-10-07 12:55:00 - Temperature_FF_Child changed from 18.4 to 17.7
+2015-10-07 12:55:00 - Temperature_FF_Bed changed from 17.8 to 18.5
+2015-10-07 12:55:15 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 12:55:15 - Weather_Temperature updated to 15
+2015-10-07 12:55:15 - Weather_LastUpdate updated to 2015-10-07T12:55:15
+2015-10-07 12:55:15 - Weather_LastUpdate changed from 2015-10-07T12:54:15 to 2015-10-07T12:55:15
+2015-10-07 12:55:19 - Sun_Elevation updated to 32.11
+2015-10-07 12:56:15 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 12:56:15 - Weather_Temperature updated to 15
+2015-10-07 12:56:15 - Weather_LastUpdate updated to 2015-10-07T12:56:15
+2015-10-07 12:56:15 - Weather_LastUpdate changed from 2015-10-07T12:55:15 to 2015-10-07T12:56:15
+2015-10-07 12:56:19 - Sun_Elevation updated to 32.11
+2015-10-07 12:57:15 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 12:57:15 - Weather_Temperature updated to 15
+2015-10-07 12:57:15 - Weather_LastUpdate updated to 2015-10-07T12:57:15
+2015-10-07 12:57:15 - Weather_LastUpdate changed from 2015-10-07T12:56:15 to 2015-10-07T12:57:15
+2015-10-07 12:57:19 - Sun_Elevation updated to 32.11
+2015-10-07 12:58:15 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 12:58:15 - Weather_Temperature updated to 15
+2015-10-07 12:58:15 - Weather_LastUpdate updated to 2015-10-07T12:58:15
+2015-10-07 12:58:15 - Weather_LastUpdate changed from 2015-10-07T12:57:15 to 2015-10-07T12:58:15
+2015-10-07 12:58:19 - Sun_Elevation updated to 32.11
+2015-10-07 12:59:17 - Discovery Result with UID 'yahooweather:weather:26343026' has been added.
+2015-10-07 12:59:24 - Thing 'yahooweather:weather:berlin' has been added.
+2015-10-07 12:59:24 - 'yahooweather:weather:berlin' updated: INITIALIZING
+2015-10-07 12:59:24 - 'yahooweather:weather:berlin' changed from UNINITIALIZED to INITIALIZING
+2015-10-07 12:59:24 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 12:59:24 - 'yahooweather:weather:berlin' changed from INITIALIZING to ONLINE
+2015-10-07 12:59:24 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 12:59:24 - Thing 'astro:sun:home' has been added.
+2015-10-07 12:59:24 - 'astro:sun:home' updated: INITIALIZING
+2015-10-07 12:59:24 - 'astro:sun:home' changed from UNINITIALIZED to INITIALIZING
+2015-10-07 12:59:24 - 'astro:sun:home' updated: ONLINE
+2015-10-07 12:59:24 - 'astro:sun:home' changed from INITIALIZING to ONLINE
+2015-10-07 12:59:25 - Link 'Weather_Temperature-yahooweather:weather:berlin:temperature' has been added.
+2015-10-07 12:59:25 - Link 'Sun_Elevation-astro:sun:home:position#elevation' has been added.
+2015-10-07 12:59:27 - Sun_Elevation updated to 32.10
+2015-10-07 12:59:27 - Sun_Elevation changed from NULL to 32.10
+2015-10-07 12:59:33 - Light_GF_Living_Table updated to OFF
+2015-10-07 12:59:33 - Light_GF_Corridor_Ceiling updated to OFF
+2015-10-07 12:59:33 - Light_GF_Kitchen_Ceiling updated to OFF
+2015-10-07 12:59:33 - Light_GF_Living_Table changed from NULL to OFF
+2015-10-07 12:59:33 - Light_GF_Kitchen_Table updated to ON
+2015-10-07 12:59:33 - Light_GF_Corridor_Ceiling changed from NULL to OFF
+2015-10-07 12:59:33 - Light_GF_Corridor_Wardrobe updated to OFF
+2015-10-07 12:59:33 - Light_GF_Toilet_Ceiling updated to OFF
+2015-10-07 12:59:33 - Light_GF_Toilet_Mirror updated to ON
+2015-10-07 12:59:33 - Light_FF_Bath_Ceiling updated to OFF
+2015-10-07 12:59:33 - Light_FF_Bath_Mirror updated to OFF
+2015-10-07 12:59:33 - Light_FF_Corridor_Ceiling updated to OFF
+2015-10-07 12:59:33 - Light_FF_Office_Ceiling updated to ON
+2015-10-07 12:59:33 - Light_FF_Child_Ceiling updated to OFF
+2015-10-07 12:59:33 - Light_FF_Bed_Ceiling updated to OFF
+2015-10-07 12:59:33 - Light_C_Corridor_Ceiling updated to ON
+2015-10-07 12:59:33 - Light_C_Staircase updated to ON
+2015-10-07 12:59:33 - Light_GF_Kitchen_Ceiling changed from NULL to OFF
+2015-10-07 12:59:33 - Light_C_Washing_Ceiling updated to OFF
+2015-10-07 12:59:33 - Light_GF_Kitchen_Table changed from NULL to ON
+2015-10-07 12:59:33 - Light_C_Workshop updated to OFF
+2015-10-07 12:59:33 - Light_Garden_Garage updated to ON
+2015-10-07 12:59:33 - Light_GF_Corridor_Wardrobe changed from NULL to OFF
+2015-10-07 12:59:33 - Light_Garden_Terrace updated to OFF
+2015-10-07 12:59:33 - Light_GF_Toilet_Ceiling changed from NULL to OFF
+2015-10-07 12:59:33 - Light_GF_Toilet_Mirror changed from NULL to ON
+2015-10-07 12:59:33 - Light_FF_Bath_Ceiling changed from NULL to OFF
+2015-10-07 12:59:33 - Light_FF_Bath_Mirror changed from NULL to OFF
+2015-10-07 12:59:33 - Light_FF_Corridor_Ceiling changed from NULL to OFF
+2015-10-07 12:59:33 - Light_FF_Office_Ceiling changed from NULL to ON
+2015-10-07 12:59:33 - Light_FF_Child_Ceiling changed from NULL to OFF
+2015-10-07 12:59:33 - Heating_GF_Corridor updated to OFF
+2015-10-07 12:59:33 - Light_FF_Bed_Ceiling changed from NULL to OFF
+2015-10-07 12:59:33 - Light_C_Corridor_Ceiling changed from NULL to ON
+2015-10-07 12:59:33 - Light_C_Staircase changed from NULL to ON
+2015-10-07 12:59:33 - Light_C_Washing_Ceiling changed from NULL to OFF
+2015-10-07 12:59:33 - Light_C_Workshop changed from NULL to OFF
+2015-10-07 12:59:33 - Light_Garden_Garage changed from NULL to ON
+2015-10-07 12:59:33 - Light_Garden_Terrace changed from NULL to OFF
+2015-10-07 12:59:33 - Heating_GF_Toilet updated to OFF
+2015-10-07 12:59:33 - Heating_GF_Living updated to OFF
+2015-10-07 12:59:33 - Heating_GF_Kitchen updated to OFF
+2015-10-07 12:59:33 - Heating_FF_Bath updated to OFF
+2015-10-07 12:59:33 - Heating_FF_Office updated to ON
+2015-10-07 12:59:33 - Heating_FF_Child updated to OFF
+2015-10-07 12:59:33 - Heating_FF_Bed updated to OFF
+2015-10-07 12:59:33 - Temperature_Setpoint updated to 22
+2015-10-07 12:59:33 - Window_GF_Frontdoor updated to OPEN
+2015-10-07 12:59:33 - Window_GF_Kitchen updated to OPEN
+2015-10-07 12:59:33 - Window_GF_Living updated to OPEN
+2015-10-07 12:59:33 - Window_GF_Toilet updated to OPEN
+2015-10-07 12:59:33 - Window_FF_Bath updated to OPEN
+2015-10-07 12:59:33 - Window_FF_Bed updated to OPEN
+2015-10-07 12:59:33 - Heating_FF_Bath changed from ON to OFF
+2015-10-07 12:59:33 - Window_FF_Office_Window updated to OPEN
+2015-10-07 12:59:33 - Window_FF_Office_Door updated to CLOSED
+2015-10-07 12:59:33 - Garage_Door updated to OPEN
+2015-10-07 12:59:33 - mqttsw1 updated to OPEN
+2015-10-07 12:59:33 - Heating_FF_Office changed from OFF to ON
+2015-10-07 12:59:33 - mqttsw2 updated to CLOSED
+2015-10-07 12:59:33 - Temperature_Setpoint changed from NULL to 22
+2015-10-07 12:59:33 - Window_GF_Frontdoor changed from NULL to OPEN
+2015-10-07 12:59:33 - DemoLocation updated to 52.5200066,13.4049540
+2015-10-07 12:59:33 - Window_GF_Kitchen changed from NULL to OPEN
+2015-10-07 12:59:33 - Window_GF_Living changed from NULL to OPEN
+2015-10-07 12:59:33 - Window_FF_Bath changed from NULL to OPEN
+2015-10-07 12:59:33 - Temperature_GF_Corridor updated to 20.2
+2015-10-07 12:59:33 - Window_FF_Bed changed from NULL to OPEN
+2015-10-07 12:59:33 - Window_FF_Office_Window changed from NULL to OPEN
+2015-10-07 12:59:33 - Temperature_GF_Toilet updated to 21.4
+2015-10-07 12:59:33 - Window_FF_Office_Door changed from NULL to CLOSED
+2015-10-07 12:59:33 - Garage_Door changed from NULL to OPEN
+2015-10-07 12:59:33 - Temperature_GF_Living updated to 20.8
+2015-10-07 12:59:33 - DemoLocation changed from NULL to 52.5200066,13.4049540
+2015-10-07 12:59:33 - Temperature_GF_Corridor changed from 18 to 20.2
+2015-10-07 12:59:33 - Temperature_GF_Toilet changed from 21.800000000000000710542735760100185871124267578125 to 21.4
+2015-10-07 12:59:33 - Temperature_GF_Kitchen updated to 17.8
+2015-10-07 12:59:33 - Temperature_FF_Bath updated to 18.2
+2015-10-07 12:59:33 - Temperature_FF_Office updated to 18.8
+2015-10-07 12:59:33 - Temperature_FF_Child updated to 21.2
+2015-10-07 12:59:33 - Temperature_GF_Living changed from 22.39999999999999857891452847979962825775146484375 to 20.8
+2015-10-07 12:59:33 - Temperature_GF_Kitchen changed from 19.699999999999999289457264239899814128875732421875 to 17.8
+2015-10-07 12:59:33 - Temperature_FF_Bed updated to 18.9
+2015-10-07 12:59:33 - Temperature_FF_Bath changed from 17.800000000000000710542735760100185871124267578125 to 18.2
+2015-10-07 12:59:33 - Temperature_FF_Office changed from 21.10000000000000142108547152020037174224853515625 to 18.8
+2015-10-07 12:59:33 - Temperature_FF_Child changed from 17.699999999999999289457264239899814128875732421875 to 21.2
+2015-10-07 12:59:33 - Temperature_FF_Bed changed from 18.5 to 18.9
+2015-10-07 12:59:33 - Weather_Temp_Max updated to 15
+2015-10-07 12:59:33 - Weather_Temp_Min updated to 14
+2015-10-07 13:00:00 - Temperature_GF_Corridor updated to 19.3
+2015-10-07 13:00:00 - Temperature_GF_Toilet updated to 21.9
+2015-10-07 13:00:00 - Temperature_GF_Living updated to 20.7
+2015-10-07 13:00:00 - Temperature_GF_Kitchen updated to 19.1
+2015-10-07 13:00:00 - Temperature_FF_Bath updated to 20.9
+2015-10-07 13:00:00 - Temperature_FF_Office updated to 21.4
+2015-10-07 13:00:00 - Temperature_FF_Child updated to 21.5
+2015-10-07 13:00:00 - Temperature_GF_Corridor changed from 20.2 to 19.3
+2015-10-07 13:00:00 - Temperature_GF_Toilet changed from 21.4 to 21.9
+2015-10-07 13:00:00 - Temperature_GF_Living changed from 20.8 to 20.7
+2015-10-07 13:00:00 - Temperature_GF_Kitchen changed from 17.8 to 19.1
+2015-10-07 13:00:00 - Temperature_FF_Bath changed from 18.2 to 20.9
+2015-10-07 13:00:00 - Temperature_FF_Office changed from 18.8 to 21.4
+2015-10-07 13:00:00 - Temperature_FF_Child changed from 21.2 to 21.5
+2015-10-07 13:00:00 - Temperature_FF_Bed updated to 21.0
+2015-10-07 13:00:00 - Temperature_FF_Bed changed from 18.9 to 21.0
+2015-10-07 13:00:24 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 13:00:24 - Weather_Temperature updated to 15
+2015-10-07 13:00:24 - Weather_LastUpdate updated to 2015-10-07T13:00:24
+2015-10-07 13:00:24 - Weather_LastUpdate changed from NULL to 2015-10-07T13:00:24
+2015-10-07 13:00:27 - Sun_Elevation updated to 32.10
+2015-10-07 13:01:24 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 13:01:24 - Weather_Temperature updated to 15
+2015-10-07 13:01:24 - Weather_LastUpdate updated to 2015-10-07T13:01:24
+2015-10-07 13:01:24 - Weather_LastUpdate changed from 2015-10-07T13:00:24 to 2015-10-07T13:01:24
+2015-10-07 13:01:27 - Sun_Elevation updated to 32.10
+2015-10-07 13:02:24 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 13:02:24 - Weather_Temperature updated to 15
+2015-10-07 13:02:24 - Weather_LastUpdate updated to 2015-10-07T13:02:24
+2015-10-07 13:02:24 - Weather_LastUpdate changed from 2015-10-07T13:01:24 to 2015-10-07T13:02:24
+2015-10-07 13:02:27 - Sun_Elevation updated to 32.09
+2015-10-07 13:02:27 - Sun_Elevation changed from 32.10 to 32.09
+2015-10-07 13:03:24 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 13:03:24 - Weather_Temperature updated to 15
+2015-10-07 13:03:24 - Weather_LastUpdate updated to 2015-10-07T13:03:24
+2015-10-07 13:03:24 - Weather_LastUpdate changed from 2015-10-07T13:02:24 to 2015-10-07T13:03:24
+2015-10-07 13:03:27 - Sun_Elevation updated to 32.08
+2015-10-07 13:03:27 - Sun_Elevation changed from 32.09 to 32.08
+2015-10-07 13:03:29 - Item 'mqttsw1' received command ON
+2015-10-07 13:03:29 - mqttsw1 updated to ON
+2015-10-07 13:03:29 - mqttsw1 changed from NULL to ON
+2015-10-07 13:03:55 - Item 'mqttsw2' received command ON
+2015-10-07 13:03:55 - mqttsw2 updated to ON
+2015-10-07 13:03:55 - mqttsw2 changed from NULL to ON
+2015-10-07 13:04:09 - Item 'mqttsw1' received command OFF
+2015-10-07 13:04:09 - mqttsw1 updated to OFF
+2015-10-07 13:04:09 - mqttsw1 changed from ON to OFF
+2015-10-07 13:04:24 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 13:04:24 - Weather_Temperature updated to 15
+2015-10-07 13:04:24 - Weather_LastUpdate updated to 2015-10-07T13:04:24
+2015-10-07 13:04:24 - Weather_LastUpdate changed from 2015-10-07T13:03:24 to 2015-10-07T13:04:24
+2015-10-07 17:39:54 - Thing 'yahooweather:weather:berlin' has been added.
+2015-10-07 17:39:54 - 'yahooweather:weather:berlin' updated: INITIALIZING
+2015-10-07 17:39:54 - 'yahooweather:weather:berlin' changed from UNINITIALIZED to INITIALIZING
+2015-10-07 17:39:54 - 'yahooweather:weather:berlin' updated: ONLINE
+2015-10-07 17:39:54 - 'yahooweather:weather:berlin' changed from INITIALIZING to ONLINE
+2015-10-07 17:39:54 - 'yahooweather:weather:berlin' updated: OFFLINE (COMMUNICATION_ERROR): weather.yahooapis.com
+2015-10-07 17:39:54 - 'yahooweather:weather:berlin' changed from ONLINE to OFFLINE (COMMUNICATION_ERROR): weather.yahooapis.com
+2015-10-07 17:39:54 - Thing 'astro:sun:home' has been added.
+2015-10-07 17:39:54 - 'astro:sun:home' updated: INITIALIZING
+2015-10-07 17:39:54 - 'astro:sun:home' changed from UNINITIALIZED to INITIALIZING
+2015-10-07 17:39:54 - 'astro:sun:home' updated: ONLINE
+2015-10-07 17:39:54 - 'astro:sun:home' changed from INITIALIZING to ONLINE
+2015-10-07 17:39:55 - Link 'Weather_Temperature-yahooweather:weather:berlin:temperature' has been added.
+2015-10-07 17:39:55 - Link 'Sun_Elevation-astro:sun:home:position#elevation' has been added.
+2015-10-07 17:39:58 - Sun_Elevation updated to 6.87
+2015-10-07 17:39:58 - Sun_Elevation changed from NULL to 6.87
+2015-10-07 17:40:04 - Light_GF_Living_Table updated to OFF
+2015-10-07 17:40:04 - Light_GF_Corridor_Ceiling updated to OFF
+2015-10-07 17:40:04 - Light_GF_Kitchen_Ceiling updated to ON
+2015-10-07 17:40:04 - Light_GF_Kitchen_Table updated to ON
+2015-10-07 17:40:04 - Light_GF_Corridor_Wardrobe updated to OFF
+2015-10-07 17:40:04 - Light_GF_Toilet_Ceiling updated to ON
+2015-10-07 17:40:04 - Light_GF_Toilet_Mirror updated to ON
+2015-10-07 17:40:04 - Light_FF_Bath_Ceiling updated to OFF
+2015-10-07 17:40:04 - Light_FF_Bath_Mirror updated to OFF
+2015-10-07 17:40:04 - Light_FF_Corridor_Ceiling updated to OFF
+2015-10-07 17:40:04 - Light_FF_Office_Ceiling updated to ON
+2015-10-07 17:40:05 - Light_GF_Living_Table changed from NULL to OFF
+2015-10-07 17:40:05 - Temperature_GF_Corridor updated to 21.7
+2015-10-07 17:40:05 - Temperature_GF_Toilet updated to 19.5
+2015-10-07 17:40:05 - Temperature_GF_Living updated to 21.9
+2015-10-07 17:40:05 - Temperature_GF_Kitchen updated to 19.6
+2015-10-07 17:40:05 - Temperature_FF_Bath updated to 19.7
+2015-10-07 17:40:05 - Light_GF_Corridor_Ceiling changed from NULL to OFF
+2015-10-07 17:40:05 - Light_GF_Kitchen_Ceiling changed from NULL to ON
+2015-10-07 17:40:05 - Light_GF_Kitchen_Table changed from NULL to ON
+2015-10-07 17:40:05 - Temperature_FF_Office updated to 19.6
+2015-10-07 17:40:05 - Light_GF_Corridor_Wardrobe changed from NULL to OFF
+2015-10-07 17:40:05 - Light_GF_Toilet_Ceiling changed from NULL to ON
+2015-10-07 17:40:05 - Temperature_FF_Child updated to 21.3
+2015-10-07 17:40:05 - Temperature_FF_Bed updated to 20.9
+2015-10-07 17:40:05 - Light_GF_Toilet_Mirror changed from NULL to ON
+2015-10-07 17:40:05 - Light_FF_Bath_Ceiling changed from NULL to OFF
+2015-10-07 17:40:05 - Light_FF_Bath_Mirror changed from NULL to OFF
+2015-10-07 17:40:05 - Light_FF_Corridor_Ceiling changed from NULL to OFF
+2015-10-07 17:40:05 - Light_FF_Child_Ceiling updated to ON
+2015-10-07 17:40:05 - Light_FF_Bed_Ceiling updated to OFF
+2015-10-07 17:40:05 - Light_C_Corridor_Ceiling updated to OFF
+2015-10-07 17:40:05 - Light_C_Staircase updated to OFF
+2015-10-07 17:40:05 - Light_C_Washing_Ceiling updated to ON
+2015-10-07 17:40:05 - Light_C_Workshop updated to OFF
+2015-10-07 17:40:05 - Light_Garden_Garage updated to ON
+2015-10-07 17:40:05 - Light_Garden_Terrace updated to ON
+2015-10-07 17:40:05 - Light_FF_Office_Ceiling changed from NULL to ON
+2015-10-07 17:40:05 - Heating_GF_Corridor updated to OFF
+2015-10-07 17:40:05 - Heating_GF_Toilet updated to ON
+2015-10-07 17:40:05 - Heating_GF_Living updated to OFF
+2015-10-07 17:40:05 - Heating_GF_Kitchen updated to OFF
+2015-10-07 17:40:05 - Temperature_GF_Corridor changed from 19.300000000000000710542735760100185871124267578125 to 21.7
+2015-10-07 17:40:05 - Temperature_GF_Toilet changed from 21.89999999999999857891452847979962825775146484375 to 19.5
+2015-10-07 17:40:05 - Heating_FF_Bath updated to OFF
+2015-10-07 17:40:05 - Heating_FF_Office updated to OFF
+2015-10-07 17:40:05 - Temperature_GF_Living changed from 20.699999999999999289457264239899814128875732421875 to 21.9
+2015-10-07 17:40:05 - Heating_FF_Child updated to OFF
+2015-10-07 17:40:05 - Heating_FF_Bed updated to OFF
+2015-10-07 17:40:05 - Temperature_GF_Kitchen changed from 19.10000000000000142108547152020037174224853515625 to 19.6
+2015-10-07 17:40:05 - Temperature_Setpoint updated to 22
+2015-10-07 17:40:05 - Temperature_FF_Bath changed from 20.89999999999999857891452847979962825775146484375 to 19.7
+2015-10-07 17:40:05 - Window_GF_Frontdoor updated to OPEN
+2015-10-07 17:40:05 - Window_GF_Kitchen updated to CLOSED
+2015-10-07 17:40:05 - Window_GF_Living updated to OPEN
+2015-10-07 17:40:05 - Window_GF_Toilet updated to OPEN
+2015-10-07 17:40:05 - Window_FF_Bath updated to OPEN
+2015-10-07 17:40:05 - Window_FF_Bed updated to OPEN
+2015-10-07 17:40:05 - Window_FF_Office_Window updated to OPEN
+2015-10-07 17:40:05 - Window_FF_Office_Door updated to CLOSED
+2015-10-07 17:40:05 - Garage_Door updated to OPEN
+2015-10-07 17:40:05 - mqttsw1 updated to OPEN
+2015-10-07 17:40:05 - mqttsw2 updated to CLOSED
+2015-10-07 17:40:05 - Temperature_FF_Office changed from 21.39999999999999857891452847979962825775146484375 to 19.6
+2015-10-07 17:40:05 - DemoLocation updated to 52.5200066,13.4049540
+2015-10-07 17:40:05 - Temperature_FF_Child changed from 21.5 to 21.3
+2015-10-07 17:40:05 - Temperature_FF_Bed changed from 21 to 20.9
+2015-10-07 17:40:05 - Light_FF_Child_Ceiling changed from NULL to ON
+2015-10-07 17:40:05 - Temperature_GF_Corridor updated to 20.2
+2015-10-07 17:40:05 - Temperature_GF_Toilet updated to 19.4
+2015-10-07 17:40:05 - Temperature_GF_Living updated to 22.5
+2015-10-07 17:40:05 - Light_FF_Bed_Ceiling changed from NULL to OFF
+2015-10-07 17:40:05 - Temperature_GF_Kitchen updated to 20.5
+2015-10-07 17:40:05 - Light_C_Corridor_Ceiling changed from NULL to OFF
+2015-10-07 17:40:05 - Temperature_FF_Bath updated to 21.4
+2015-10-07 17:40:05 - Temperature_FF_Office updated to 22.2
+2015-10-07 17:40:05 - Light_C_Staircase changed from NULL to OFF
+2015-10-07 17:40:05 - Temperature_FF_Child updated to 19.3
+2015-10-07 17:40:05 - Temperature_FF_Bed updated to 19.7
+2015-10-07 17:40:05 - Light_C_Washing_Ceiling changed from NULL to ON
+2015-10-07 17:40:05 - Light_C_Workshop changed from NULL to OFF
+2015-10-07 17:40:05 - Light_Garden_Garage changed from NULL to ON
+2015-10-07 17:40:05 - Light_Garden_Terrace changed from NULL to ON
+2015-10-07 17:40:05 - Heating_GF_Toilet changed from OFF to ON
+2015-10-07 17:40:05 - Heating_FF_Office changed from ON to OFF
+2015-10-07 17:40:05 - Temperature_Setpoint changed from NULL to 22
+2015-10-07 17:40:05 - Window_GF_Frontdoor changed from NULL to OPEN
+2015-10-07 17:40:05 - Window_GF_Kitchen changed from NULL to CLOSED
+2015-10-07 17:40:05 - Window_GF_Living changed from NULL to OPEN
+2015-10-07 17:40:05 - Window_FF_Bath changed from NULL to OPEN
+2015-10-07 17:40:05 - Window_FF_Bed changed from NULL to OPEN
+2015-10-07 17:40:05 - Window_FF_Office_Window changed from NULL to OPEN
+2015-10-07 17:40:05 - Window_FF_Office_Door changed from NULL to CLOSED
+2015-10-07 17:40:05 - Garage_Door changed from NULL to OPEN
+2015-10-07 17:40:05 - DemoLocation changed from NULL to 52.5200066,13.4049540
+2015-10-07 17:40:05 - Temperature_GF_Corridor changed from 21.7 to 20.2
+2015-10-07 17:40:05 - Temperature_GF_Toilet changed from 19.5 to 19.4
+2015-10-07 17:40:05 - Temperature_GF_Living changed from 21.9 to 22.5
+2015-10-07 17:40:05 - Temperature_GF_Kitchen changed from 19.6 to 20.5
+2015-10-07 17:40:05 - Temperature_FF_Bath changed from 19.7 to 21.4
+2015-10-07 17:40:05 - Temperature_FF_Office changed from 19.6 to 22.2
+2015-10-07 17:40:05 - Temperature_FF_Child changed from 21.3 to 19.3
+2015-10-07 17:40:05 - Weather_Temp_Max updated to 15
+2015-10-07 17:40:05 - Temperature_FF_Bed changed from 20.9 to 19.7
+2015-10-07 17:40:05 - Weather_Temp_Min updated to 14
+2015-10-07 17:40:54 - 'yahooweather:weather:berlin' updated: OFFLINE (COMMUNICATION_ERROR): weather.yahooapis.com
+2015-10-07 17:40:58 - Sun_Elevation updated to 6.72
+2015-10-07 17:40:58 - Sun_Elevation changed from 6.87 to 6.72
+2015-10-07 17:41:54 - 'yahooweather:weather:berlin' updated: OFFLINE (COMMUNICATION_ERROR): weather.yahooapis.com
+2015-10-07 17:41:58 - Sun_Elevation updated to 6.58
+2015-10-07 17:41:58 - Sun_Elevation changed from 6.72 to 6.58
+2015-10-07 17:42:54 - 'yahooweather:weather:berlin' updated: OFFLINE (COMMUNICATION_ERROR): weather.yahooapis.com
+2015-10-07 17:42:58 - Sun_Elevation updated to 6.43
+2015-10-07 17:42:58 - Sun_Elevation changed from 6.58 to 6.43

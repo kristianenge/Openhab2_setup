@@ -1,0 +1,862 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?artifactRepository version='1.1.0'?>
+<repository name='Bundle pool' type='org.eclipse.equinox.p2.artifact.repository.simpleRepository' version='1'>
+  <properties size='2'>
+    <property name='p2.system' value='true'/>
+    <property name='p2.timestamp' value='1444093952656'/>
+  </properties>
+  <mappings size='3'>
+    <rule filter='(&amp; (classifier=osgi.bundle))' output='${repoUrl}/plugins/${id}_${version}.jar'/>
+    <rule filter='(&amp; (classifier=binary))' output='${repoUrl}/binary/${id}_${version}'/>
+    <rule filter='(&amp; (classifier=org.eclipse.update.feature))' output='${repoUrl}/features/${id}_${version}.jar'/>
+  </mappings>
+  <artifacts size='167'>
+    <artifact classifier='osgi.bundle' id='org.eclipse.core.variables' version='3.2.800.v20130819-1716'>
+      <properties size='1'>
+        <property name='download.size' value='34860'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.smarthome.io.console.eclipse' version='0.8.0.201510020614'>
+      <properties size='1'>
+        <property name='download.size' value='13580'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.apache.felix.gogo.runtime' version='0.10.0.v201209301036'>
+      <properties size='1'>
+        <property name='download.size' value='80249'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.smarthome.core.scheduler' version='0.8.0.201510020614'>
+      <properties size='1'>
+        <property name='download.size' value='705419'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='ch.qos.logback.core' version='1.0.7.v20121108-1250'>
+      <properties size='1'>
+        <property name='download.size' value='389973'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.smarthome.io.transport.upnp' version='0.8.0.201510020614'>
+      <properties size='1'>
+        <property name='download.size' value='21217'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.smarthome.config.core' version='0.8.0.201510020614'>
+      <properties size='1'>
+        <property name='download.size' value='36043'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.openhab.ui.iconset.classic' version='2.0.0.201510060108'>
+      <properties size='1'>
+        <property name='download.size' value='1424481'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.jetty.osgi.boot' version='9.2.12.v20150709'>
+      <properties size='1'>
+        <property name='download.size' value='125625'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.smarthome.ui.classic' version='0.8.0.201510020614'>
+      <properties size='1'>
+        <property name='download.size' value='247403'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.smarthome.storage.mapdb' version='0.8.0.201510020614'>
+      <properties size='1'>
+        <property name='download.size' value='430788'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.smarthome.core.scriptengine' version='0.8.0.201510020614'>
+      <properties size='1'>
+        <property name='download.size' value='22431'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.apache.httpcomponents.httpcore' version='4.3.3.v201411290715'>
+      <properties size='1'>
+        <property name='download.size' value='318633'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.openhab.core' version='2.0.0.201510060108'>
+      <properties size='1'>
+        <property name='download.size' value='12467'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.jetty.security' version='9.2.12.v20150709'>
+      <properties size='1'>
+        <property name='download.size' value='106808'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.jetty.webapp' version='9.2.12.v20150709'>
+      <properties size='1'>
+        <property name='download.size' value='117414'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.slf4j.jcl' version='1.7.2.v20130115-1340'>
+      <properties size='1'>
+        <property name='download.size' value='24216'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.xtext.generator' version='2.6.2.v201407030533'>
+      <properties size='1'>
+        <property name='download.size' value='901796'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.smarthome.core' version='0.8.0.201510020614'>
+      <properties size='1'>
+        <property name='download.size' value='198040'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.smarthome.transform.xpath' version='0.8.0.201510020614'>
+      <properties size='1'>
+        <property name='download.size' value='12565'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.smarthome.core.autoupdate' version='0.8.0.201510020614'>
+      <properties size='1'>
+        <property name='download.size' value='15086'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.openhab.io.transport.serial' version='2.0.0.201510060108'>
+      <properties size='1'>
+        <property name='download.size' value='498182'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.smarthome.model.sitemap.runtime' version='0.8.0.201510020614'>
+      <properties size='1'>
+        <property name='download.size' value='10782'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.xtend' version='2.0.0.v201406030414'>
+      <properties size='1'>
+        <property name='download.size' value='546999'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.jetty.deploy' version='9.2.12.v20150709'>
+      <properties size='1'>
+        <property name='download.size' value='59240'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.jetty.io' version='9.2.12.v20150709'>
+      <properties size='1'>
+        <property name='download.size' value='120525'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.jetty.rewrite' version='9.2.12.v20150709'>
+      <properties size='1'>
+        <property name='download.size' value='37833'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.apache.commons.httpclient' version='3.1.0.v201012070820'>
+      <properties size='1'>
+        <property name='download.size' value='321633'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.core.runtime' version='3.10.0.v20140318-2214'>
+      <properties size='1'>
+        <property name='download.size' value='75169'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.smarthome.io.multimedia' version='0.8.0.201510020614'>
+      <properties size='1'>
+        <property name='download.size' value='13577'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.emf.mwe2.runtime' version='2.7.0.v201409021027'>
+      <properties size='1'>
+        <property name='download.size' value='13256'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.smarthome.ui' version='0.8.0.201510020614'>
+      <properties size='1'>
+        <property name='download.size' value='145469'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.emf.mwe2.lib' version='2.7.0.v201409021027'>
+      <properties size='1'>
+        <property name='download.size' value='31049'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.xtext.xbase' version='2.6.2.v201407030533'>
+      <properties size='1'>
+        <property name='download.size' value='4090721'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.apache.commons.net' version='3.2.0.v201305141515'>
+      <properties size='1'>
+        <property name='download.size' value='294521'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.core.jobs' version='3.6.1.v20141014-1248'>
+      <properties size='1'>
+        <property name='download.size' value='97486'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.apache.felix.gogo.command' version='0.10.0.v201209301215'>
+      <properties size='1'>
+        <property name='download.size' value='57646'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.smarthome.model.item' version='0.8.0.201510020614'>
+      <properties size='1'>
+        <property name='download.size' value='127920'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.smarthome.model.core' version='0.8.0.201510020614'>
+      <properties size='1'>
+        <property name='download.size' value='29010'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.xtext.util' version='2.6.2.v201407030533'>
+      <properties size='1'>
+        <property name='download.size' value='219136'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.openhab.io.jetty' version='2.0.0.201510060108'>
+      <properties size='1'>
+        <property name='download.size' value='6433'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.objectweb.asm' version='5.0.1.v201404251740'>
+      <properties size='1'>
+        <property name='download.size' value='64028'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.smarthome.io.console' version='0.8.0.201510020614'>
+      <properties size='1'>
+        <property name='download.size' value='26640'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.smarthome.transform.map' version='0.8.0.201510020614'>
+      <properties size='1'>
+        <property name='download.size' value='11911'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.smarthome.config.dispatch' version='0.8.0.201510020614'>
+      <properties size='1'>
+        <property name='download.size' value='15420'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.smarthome.ui.iconset.classic' version='0.8.0.201510020614'>
+      <properties size='1'>
+        <property name='download.size' value='22108'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.apache.ant' version='1.9.2.v201404171502'>
+      <properties size='1'>
+        <property name='download.size' value='2416907'/>
+      </properties>
+      <repositoryProperties size='1'>
+        <property name='artifact.folder' value='true'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.core.expressions' version='3.4.600.v20140128-0851'>
+      <properties size='1'>
+        <property name='download.size' value='88716'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.jetty.http' version='9.2.12.v20150709'>
+      <properties size='1'>
+        <property name='download.size' value='116135'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.smarthome.transform.xslt' version='0.8.0.201510020614'>
+      <properties size='1'>
+        <property name='download.size' value='12480'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.jetty.servlet' version='9.2.12.v20150709'>
+      <properties size='1'>
+        <property name='download.size' value='125483'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.osgi' version='3.10.2.v20150203-1939'>
+      <properties size='1'>
+        <property name='download.size' value='1265319'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.google.inject' version='3.0.0.v201312141243'>
+      <properties size='1'>
+        <property name='download.size' value='520625'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.smarthome.config.discovery' version='0.8.0.201510020614'>
+      <properties size='1'>
+        <property name='download.size' value='68321'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.smarthome.io.rest.sse' version='0.8.0.201510020614'>
+      <properties size='1'>
+        <property name='download.size' value='26179'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.slf4j.jul' version='1.7.2.v20121108-1250'>
+      <properties size='1'>
+        <property name='download.size' value='11724'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.smarthome.model.persistence.runtime' version='0.8.0.201510020614'>
+      <properties size='1'>
+        <property name='download.size' value='10863'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='ch.qos.logback.slf4j' version='1.0.7.v20121108-1250'>
+      <properties size='1'>
+        <property name='download.size' value='11048'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.xtext.ecore' version='2.6.2.v201407030533'>
+      <properties size='1'>
+        <property name='download.size' value='15689'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.core.commands' version='3.6.100.v20140528-1422'>
+      <properties size='1'>
+        <property name='download.size' value='109245'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.paho.client.mqttv3' version='1.0.2'>
+      <properties size='1'>
+        <property name='download.size' value='171660'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.smarthome.io.rest.sitemap' version='0.8.0.201510020614'>
+      <properties size='1'>
+        <property name='download.size' value='23098'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.apache.commons.cli' version='1.2.0.v201404270220'>
+      <properties size='1'>
+        <property name='download.size' value='49567'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.equinox.registry' version='3.5.400.v20140428-1507'>
+      <properties size='1'>
+        <property name='download.size' value='183511'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.equinox.launcher' version='1.3.0.v20140415-2008'>
+      <properties size='1'>
+        <property name='download.size' value='50200'/>
+      </properties>
+    </artifact>
+    <artifact classifier='org.eclipse.update.feature' id='org.openhab.feature.runtime' version='2.0.0.201510060108'>
+      <properties size='1'>
+        <property name='download.size' value='5340'/>
+      </properties>
+      <repositoryProperties size='1'>
+        <property name='artifact.folder' value='true'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.equinox.supplement' version='1.5.100.v20140428-1446'>
+      <properties size='1'>
+        <property name='download.size' value='100162'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.apache.httpcomponents.httpclient' version='4.3.6.v201411290715'>
+      <properties size='1'>
+        <property name='download.size' value='850278'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.smarthome.io.rest.core' version='0.8.0.201510020614'>
+      <properties size='1'>
+        <property name='download.size' value='52805'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.smarthome.io.transport.mdns' version='0.8.0.201510020614'>
+      <properties size='1'>
+        <property name='download.size' value='25151'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.apache.commons.lang' version='2.6.0.v201404270220'>
+      <properties size='1'>
+        <property name='download.size' value='299232'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.smarthome.model.persistence' version='0.8.0.201510020614'>
+      <properties size='1'>
+        <property name='download.size' value='715497'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.antlr.runtime' version='3.2.0.v201101311130'>
+      <properties size='1'>
+        <property name='download.size' value='214589'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.emf.codegen.ecore' version='2.10.2.v20150123-0452'>
+      <properties size='1'>
+        <property name='download.size' value='1077883'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.jetty.server' version='9.2.12.v20150709'>
+      <properties size='1'>
+        <property name='download.size' value='440956'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.openhab.core.init' version='2.0.0.201510060108'>
+      <properties size='1'>
+        <property name='download.size' value='6020'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.jdt.core' version='3.10.2.v20150120-1634'>
+      <properties size='1'>
+        <property name='download.size' value='5575866'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.smarthome.core.persistence' version='0.8.0.201510020614'>
+      <properties size='1'>
+        <property name='download.size' value='14589'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.smarthome.transform.jsonpath' version='0.8.0.201510020614'>
+      <properties size='1'>
+        <property name='download.size' value='419071'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.apache.felix.gogo.shell' version='0.10.0.v201212101605'>
+      <properties size='1'>
+        <property name='download.size' value='60827'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.eclipsesource.jaxrs.provider.gson' version='2.3.0.201506221200'>
+      <properties size='1'>
+        <property name='download.size' value='5978'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.smarthome.io.transport.mqtt' version='0.8.0.201510020614'>
+      <properties size='1'>
+        <property name='download.size' value='28296'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.ibm.icu.base' version='52.1.0.v201404171520'>
+      <properties size='1'>
+        <property name='download.size' value='182098'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.smarthome.transform.exec' version='0.8.0.201510020614'>
+      <properties size='1'>
+        <property name='download.size' value='11898'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.smarthome.model.rule' version='0.8.0.201510020614'>
+      <properties size='1'>
+        <property name='download.size' value='338871'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.openhab.io.rest.docs' version='2.0.0.201510060108'>
+      <properties size='1'>
+        <property name='download.size' value='219260'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.xtext' version='2.6.2.v201407030533'>
+      <properties size='1'>
+        <property name='download.size' value='2261770'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.jetty.util' version='9.2.12.v20150709'>
+      <properties size='1'>
+        <property name='download.size' value='380336'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.ibm.icu' version='52.1.1.v201501240615'>
+      <properties size='1'>
+        <property name='download.size' value='10731420'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='javax.mail' version='1.4.0.v201005080615'>
+      <properties size='1'>
+        <property name='download.size' value='320960'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.smarthome.model.script.runtime' version='0.8.0.201510020614'>
+      <properties size='1'>
+        <property name='download.size' value='19592'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.openhab.ui.dashboard' version='2.0.0.201510060108'>
+      <properties size='1'>
+        <property name='download.size' value='286107'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.emf.common' version='2.10.1.v20150123-0348'>
+      <properties size='1'>
+        <property name='download.size' value='353695'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.emf.codegen' version='2.10.0.v20150123-0452'>
+      <properties size='1'>
+        <property name='download.size' value='288429'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.openhab.ui.classicui' version='2.0.0.201510060108'>
+      <properties size='1'>
+        <property name='download.size' value='3634'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.smarthome.ui.icon' version='0.8.0.201510020614'>
+      <properties size='1'>
+        <property name='download.size' value='22730'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.smarthome.model.rule.runtime' version='0.8.0.201510020614'>
+      <properties size='1'>
+        <property name='download.size' value='35464'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.jdt.launching' version='3.7.102.v20141111-0953'>
+      <properties size='1'>
+        <property name='download.size' value='320719'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='javax.xml' version='1.3.4.v201005080400'>
+      <properties size='1'>
+        <property name='download.size' value='237996'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.debug.core' version='3.9.1.v20140805-1629'>
+      <properties size='1'>
+        <property name='download.size' value='358204'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.eclipsesource.jaxrs.jersey-min' version='2.18.0'>
+      <properties size='1'>
+        <property name='download.size' value='4435647'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.jupnp' version='2.0.0.201509091152'>
+      <properties size='1'>
+        <property name='download.size' value='744043'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.equinox.console' version='1.1.0.v20140131-1639'>
+      <properties size='1'>
+        <property name='download.size' value='118678'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.smarthome.core.thing.xml' version='0.8.0.201510020614'>
+      <properties size='1'>
+        <property name='download.size' value='56955'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.smarthome.transform.javascript' version='0.8.0.201510020614'>
+      <properties size='1'>
+        <property name='download.size' value='12714'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.emf.mwe.utils' version='1.3.4.v201409021027'>
+      <properties size='1'>
+        <property name='download.size' value='34618'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.emf.ecore' version='2.10.2.v20150123-0348'>
+      <properties size='1'>
+        <property name='download.size' value='1189464'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.jetty.continuation' version='9.2.12.v20150709'>
+      <properties size='1'>
+        <property name='download.size' value='22877'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.slf4j.log4j' version='1.7.2.v20130115-1340'>
+      <properties size='1'>
+        <property name='download.size' value='29754'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.equinox.util' version='1.0.500.v20130404-1337'>
+      <properties size='1'>
+        <property name='download.size' value='77932'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.smarthome.config.xml' version='0.8.0.201510020614'>
+      <properties size='1'>
+        <property name='download.size' value='565426'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.eclipsesource.jaxrs.publisher' version='5.0.0.201506221200'>
+      <properties size='1'>
+        <property name='download.size' value='33379'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.jdt.debug' version='3.8.102.v20150115-1323'>
+      <properties size='1'>
+        <property name='download.size' value='869979'/>
+      </properties>
+      <repositoryProperties size='1'>
+        <property name='artifact.folder' value='true'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.osgi.services' version='3.4.0.v20140312-2051'>
+      <properties size='1'>
+        <property name='download.size' value='90686'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.smarthome.core.thing' version='0.8.0.201510020614'>
+      <properties size='1'>
+        <property name='download.size' value='192040'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.apache.commons.collections' version='3.2.0.v2013030210310'>
+      <properties size='1'>
+        <property name='download.size' value='612508'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='ch.qos.logback.classic' version='1.0.7.v20121108-1250'>
+      <properties size='1'>
+        <property name='download.size' value='262122'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.smarthome.io.monitor' version='0.8.0.201510020614'>
+      <properties size='1'>
+        <property name='download.size' value='12710'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.smarthome.model.sitemap' version='0.8.0.201510020614'>
+      <properties size='1'>
+        <property name='download.size' value='293612'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.smarthome.io.net' version='0.8.0.201510020614'>
+      <properties size='1'>
+        <property name='download.size' value='24200'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.smarthome.io.rest' version='0.8.0.201510020614'>
+      <properties size='1'>
+        <property name='download.size' value='23122'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.openhab.ui.paperui' version='2.0.0.201510060108'>
+      <properties size='1'>
+        <property name='download.size' value='60336'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.apache.commons.logging' version='1.1.1.v201101211721'>
+      <properties size='1'>
+        <property name='download.size' value='74243'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.apache.commons.codec' version='1.6.0.v201305230611'>
+      <properties size='1'>
+        <property name='download.size' value='258013'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.google.guava' version='10.0.1.v201203051515'>
+      <properties size='1'>
+        <property name='download.size' value='1593132'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.equinox.cm' version='1.1.0.v20131021-1936'>
+      <properties size='1'>
+        <property name='download.size' value='72865'/>
+      </properties>
+    </artifact>
+    <artifact classifier='org.eclipse.update.feature' id='org.openhab.feature.dependencies' version='2.0.0.201510060108'>
+      <properties size='1'>
+        <property name='download.size' value='7159'/>
+      </properties>
+      <repositoryProperties size='1'>
+        <property name='artifact.folder' value='true'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.text' version='3.5.300.v20130515-1451'>
+      <properties size='1'>
+        <property name='download.size' value='249432'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.smarthome.transform.regex' version='0.8.0.201510020614'>
+      <properties size='1'>
+        <property name='download.size' value='12264'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.equinox.http.servlet' version='1.1.500.v20140318-1755'>
+      <properties size='1'>
+        <property name='download.size' value='44976'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.openhab.core.compat1x' version='2.0.0.201510060108'>
+      <properties size='1'>
+        <property name='download.size' value='1152799'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.emf.mwe.core' version='1.3.4.v201409021027'>
+      <properties size='1'>
+        <property name='download.size' value='186873'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.core.contenttype' version='3.4.200.v20140207-1251'>
+      <properties size='1'>
+        <property name='download.size' value='93948'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='javax.jmdns' version='3.4.2'>
+      <properties size='1'>
+        <property name='download.size' value='209715'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.emf.ecore.xmi' version='2.10.2.v20150123-0348'>
+      <properties size='1'>
+        <property name='download.size' value='229547'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.equinox.common' version='3.6.200.v20130402-1505'>
+      <properties size='1'>
+        <property name='download.size' value='106701'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.smarthome.transform.scale' version='0.8.0.201510020614'>
+      <properties size='1'>
+        <property name='download.size' value='13670'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.xtend.typesystem.emf' version='2.0.0.v201406030414'>
+      <properties size='1'>
+        <property name='download.size' value='65458'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.smarthome.model.item.runtime' version='0.8.0.201510020614'>
+      <properties size='1'>
+        <property name='download.size' value='10728'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.jetty.osgi.httpservice' version='9.2.12.v20150709'>
+      <properties size='1'>
+        <property name='download.size' value='13477'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='javax.activation' version='1.1.0.v201211130549'>
+      <properties size='1'>
+        <property name='download.size' value='55674'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.slf4j.api' version='1.7.2.v20121108-1250'>
+      <properties size='1'>
+        <property name='download.size' value='35173'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.smarthome.core.id' version='0.8.0.201510020614'>
+      <properties size='1'>
+        <property name='download.size' value='13072'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.xtend.lib' version='2.6.2.v201407030533'>
+      <properties size='1'>
+        <property name='download.size' value='58640'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.core.resources' version='3.9.1.v20140825-1431'>
+      <properties size='1'>
+        <property name='download.size' value='833742'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.core.filesystem' version='1.4.100.v20140514-1614'>
+      <properties size='1'>
+        <property name='download.size' value='58234'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.equinox.app' version='1.3.200.v20130910-1609'>
+      <properties size='1'>
+        <property name='download.size' value='86245'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.equinox.ds' version='1.4.200.v20131126-2331'>
+      <properties size='1'>
+        <property name='download.size' value='194802'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='javax.servlet' version='3.1.0.v20140303-1611'>
+      <properties size='1'>
+        <property name='download.size' value='105845'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.apache.commons.io' version='2.2.0.v201405211200'>
+      <properties size='1'>
+        <property name='download.size' value='194676'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.xpand' version='2.0.0.v201406030414'>
+      <properties size='1'>
+        <property name='download.size' value='232288'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.google.gson' version='2.3.1'>
+      <properties size='1'>
+        <property name='download.size' value='210856'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.xtext.common.types' version='2.6.2.v201407030533'>
+      <properties size='1'>
+        <property name='download.size' value='538524'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.equinox.preferences' version='3.5.200.v20140224-1527'>
+      <properties size='1'>
+        <property name='download.size' value='127161'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.smarthome.model.thing.runtime' version='0.8.0.201510020614'>
+      <properties size='1'>
+        <property name='download.size' value='10747'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.equinox.event' version='1.3.100.v20140115-1647'>
+      <properties size='1'>
+        <property name='download.size' value='32352'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.jetty.xml' version='9.2.12.v20150709'>
+      <properties size='1'>
+        <property name='download.size' value='51556'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.apache.felix.fileinstall' version='3.4.0'>
+      <properties size='1'>
+        <property name='download.size' value='104180'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.xtext.smap' version='2.6.2.v201407030533'>
+      <properties size='1'>
+        <property name='download.size' value='15811'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.apache.commons.exec' version='1.1.0.v201301240602'>
+      <properties size='1'>
+        <property name='download.size' value='62912'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.jetty.client' version='9.2.12.v20150709'>
+      <properties size='1'>
+        <property name='download.size' value='252852'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.smarthome.core.binding.xml' version='0.8.0.201510020614'>
+      <properties size='1'>
+        <property name='download.size' value='21921'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.smarthome.ui.paperui' version='0.8.0.201509300835'>
+      <properties size='1'>
+        <property name='download.size' value='2671344'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.smarthome.model.thing' version='0.8.0.201510020614'>
+      <properties size='1'>
+        <property name='download.size' value='275019'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.smarthome.model.script' version='0.8.0.201510020614'>
+      <properties size='1'>
+        <property name='download.size' value='291436'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.xtext.xbase.lib' version='2.6.2.v201407030533'>
+      <properties size='1'>
+        <property name='download.size' value='114225'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.smarthome.core.transform' version='0.8.0.201510020614'>
+      <properties size='1'>
+        <property name='download.size' value='20919'/>
+      </properties>
+    </artifact>
+  </artifacts>
+</repository>

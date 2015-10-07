@@ -1,0 +1,203 @@
+!SESSION 2015-10-07 17:39:36.634 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_20
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=nb_NO
+Command-line arguments:  -console
+
+!ENTRY org.eclipse.osgi 4 0 2015-10-07 17:39:37.147
+!MESSAGE Bundle reference:file:com.ibm.icu_52.1.1.v201501240615.jar@4 not found.
+
+!ENTRY org.eclipse.osgi 4 0 2015-10-07 17:39:37.153
+!MESSAGE Bundle reference:file:org.eclipse.debug.core_3.9.1.v20140805-1629.jar@4 not found.
+
+!ENTRY org.eclipse.osgi 4 0 2015-10-07 17:39:37.158
+!MESSAGE Bundle reference:file:org.eclipse.jdt.core_3.10.2.v20150120-1634.jar@4 not found.
+
+!ENTRY org.eclipse.osgi 4 0 2015-10-07 17:39:37.158
+!MESSAGE Bundle reference:file:org.eclipse.jdt.launching_3.7.102.v20141111-0953.jar@4 not found.
+
+!ENTRY org.eclipse.equinox.ds 1 0 2015-10-07 17:39:41.255
+!MESSAGE Could not bind a reference of component org.eclipse.smarthome.core.persistence.manager. The reference is: Reference[name = ModelRepository, interface = org.eclipse.smarthome.model.core.ModelRepository, policy = dynamic, cardinality = 0..1, target = null, bind = setModelRepository, unbind = unsetModelRepository]
+
+!ENTRY org.eclipse.equinox.ds 1 0 2015-10-07 17:39:41.256
+!MESSAGE Could not bind a reference of component org.eclipse.smarthome.core.persistence.manager. The reference is: Reference[name = PersistenceService, interface = org.eclipse.smarthome.core.persistence.PersistenceService, policy = dynamic, cardinality = 0..n, target = null, bind = addPersistenceService, unbind = removePersistenceService]
+
+!ENTRY org.eclipse.equinox.ds 1 0 2015-10-07 17:39:41.256
+!MESSAGE Could not bind a reference of component org.eclipse.smarthome.core.persistence.manager. The reference is: Reference[name = ItemRegistry, interface = org.eclipse.smarthome.core.items.ItemRegistry, policy = dynamic, cardinality = 0..1, target = null, bind = setItemRegistry, unbind = unsetItemRegistry]
+
+!ENTRY org.eclipse.equinox.ds 1 0 2015-10-07 17:39:41.262
+!MESSAGE Could not bind a reference of component org.eclipse.smarthome.model.persistence.extensions. The reference is: Reference[name = PersistenceService, interface = org.eclipse.smarthome.core.persistence.PersistenceService, policy = dynamic, cardinality = 0..n, target = null, bind = addPersistenceService, unbind = removePersistenceService]
+
+!ENTRY org.eclipse.emf.codegen 4 0 2015-10-07 17:39:42.770
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+org.osgi.framework.BundleException: Could not resolve module: org.eclipse.emf.codegen [41]
+  Unresolved requirement: Require-Bundle: org.eclipse.jdt.core; bundle-version="[3.5.0,4.0.0)"
+
+	at org.eclipse.osgi.container.Module.start(Module.java:434)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1582)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1561)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1533)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1476)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:340)
+
+!ENTRY org.eclipse.emf.codegen.ecore 4 0 2015-10-07 17:39:42.773
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+org.osgi.framework.BundleException: Could not resolve module: org.eclipse.emf.codegen.ecore [42]
+  Unresolved requirement: Require-Bundle: org.eclipse.jdt.core; bundle-version="[3.5.0,4.0.0)"
+
+	at org.eclipse.osgi.container.Module.start(Module.java:434)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1582)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1561)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1533)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1476)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:340)
+
+!ENTRY org.eclipse.jdt.debug 4 0 2015-10-07 17:39:42.856
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+org.osgi.framework.BundleException: Could not resolve module: org.eclipse.jdt.debug [62]
+  Unresolved requirement: Require-Bundle: org.eclipse.debug.core; bundle-version="[3.9.0,4.0.0)"
+
+	at org.eclipse.osgi.container.Module.start(Module.java:434)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1582)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1561)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1533)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1476)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:340)
+
+!ENTRY org.openhab.binding.modbus 4 0 2015-10-07 17:39:43.751
+!MESSAGE [SCR] Component definition XMLs not found in bundle org.openhab.binding.modbus. The component header value is OSGI-INF/modbuspoll.xml
+
+!ENTRY org.openhab.binding.modbus 4 0 2015-10-07 17:39:43.751
+!MESSAGE [SCR] Component definition XMLs not found in bundle org.openhab.binding.modbus. The component header value is OSGI-INF/modbuspoll.xml
+
+!ENTRY org.openhab.binding.modbus 4 0 2015-10-07 17:39:43.752
+!MESSAGE [SCR] Component definition XMLs not found in bundle org.openhab.binding.modbus. The component header value is OSGI-INF/modbusconfiguration.xml
+
+!ENTRY org.openhab.binding.modbus 4 0 2015-10-07 17:39:43.752
+!MESSAGE [SCR] Component definition XMLs not found in bundle org.openhab.binding.modbus. The component header value is OSGI-INF/modbusconfiguration.xml
+
+!ENTRY org.eclipse.equinox.ds 1 0 2015-10-07 17:39:44.144
+!MESSAGE Could not bind a reference of component ConfigDescriptionRegistry. The reference is: Reference[name = ConfigDescriptionProvider, interface = org.eclipse.smarthome.config.core.ConfigDescriptionProvider, policy = dynamic, cardinality = 0..n, target = null, bind = addConfigDescriptionProvider, unbind = removeConfigDescriptionProvider]
+
+!ENTRY org.eclipse.equinox.ds 1 0 2015-10-07 17:39:45.427
+!MESSAGE Could not bind a reference of component org.eclipse.smarthome.core.binding.BindingInfoRegistry. The reference is: Reference[name = BindingInfoProvider, interface = org.eclipse.smarthome.core.binding.BindingInfoProvider, policy = dynamic, cardinality = 0..n, target = null, bind = addBindingInfoProvider, unbind = removeBindingInfoProvider]
+
+!ENTRY org.eclipse.equinox.ds 1 0 2015-10-07 17:39:45.675
+!MESSAGE Could not bind a reference of component org.eclipse.smarthome.core.itemregistry. The reference is: Reference[name = ItemProvider, interface = org.eclipse.smarthome.core.items.ItemProvider, policy = dynamic, cardinality = 0..n, target = null, bind = addProvider, unbind = removeProvider]
+
+!ENTRY org.eclipse.equinox.ds 1 0 2015-10-07 17:39:45.683
+!MESSAGE Could not bind a reference of component org.eclipse.smarthome.core.itemregistry. The reference is: Reference[name = StateDescriptionProvider, interface = org.eclipse.smarthome.core.types.StateDescriptionProvider, policy = dynamic, cardinality = 0..n, target = null, bind = addStateDescriptionProvider, unbind = removeStateDescriptionProvider]
+
+!ENTRY org.eclipse.equinox.ds 1 0 2015-10-07 17:39:45.926
+!MESSAGE Could not bind a reference of component org.openhab.persistence.rrd4j. The reference is: Reference[name = ItemRegistry, interface = org.openhab.core.items.ItemRegistry, policy = dynamic, policy-option = reluctant, cardinality = 0..1, target = null, bind = setItemRegistry, unbind = unsetItemRegistry, updated = null]
+
+!ENTRY org.eclipse.equinox.ds 1 0 2015-10-07 17:39:46.094
+!MESSAGE Could not bind a reference of component org.eclipse.smarthome.core.thing.ThingRegistry. The reference is: Reference[name = ThingProvider, interface = org.eclipse.smarthome.core.thing.ThingProvider, policy = dynamic, cardinality = 0..n, target = null, bind = addProvider, unbind = removeProvider]
+
+!ENTRY org.eclipse.equinox.ds 1 0 2015-10-07 17:39:46.100
+!MESSAGE Could not bind a reference of component org.eclipse.smarthome.core.thing.link.ItemChannelLinkRegistry. The reference is: Reference[name = ItemChannelLinkProvider, interface = org.eclipse.smarthome.core.thing.link.ItemChannelLinkProvider, policy = dynamic, cardinality = 0..n, target = null, bind = addProvider, unbind = removeProvider]
+
+!ENTRY org.eclipse.equinox.ds 1 0 2015-10-07 17:39:46.102
+!MESSAGE Could not bind a reference of component org.eclipse.smarthome.core.thing.type.ThingTypeRegistry. The reference is: Reference[name = ThingTypeProvider, interface = org.eclipse.smarthome.core.thing.binding.ThingTypeProvider, policy = dynamic, cardinality = 0..n, target = null, bind = addThingTypeProvider, unbind = removeThingTypeProvider]
+
+!ENTRY org.eclipse.equinox.ds 1 0 2015-10-07 17:39:46.158
+!MESSAGE Could not bind a reference of component org.eclipse.smarthome.core.thing.link.ItemThingLinkRegistry. The reference is: Reference[name = ItemThingLinkProvider, interface = org.eclipse.smarthome.core.thing.link.ItemThingLinkProvider, policy = dynamic, cardinality = 0..n, target = null, bind = addProvider, unbind = removeProvider]
+
+!ENTRY org.eclipse.smarthome.io.transport.mqtt 2 0 2015-10-07 17:39:47.172
+!MESSAGE [SCR] Found components with duplicated names! Details: 
+Component1 : Component[
+	name = MQTT Connection Service
+	activate = activate
+	deactivate = deactivate
+	modified = 
+	configuration-policy = optional
+	factory = null
+	autoenable = true
+	immediate = true
+	implementation = org.eclipse.smarthome.io.transport.mqtt.MqttService
+	state = Unsatisfied
+	properties = {service.pid=org.eclipse.smarthome.mqtt}
+	serviceFactory = false
+	serviceInterface = [org.eclipse.smarthome.io.transport.mqtt.MqttService, org.osgi.service.cm.ManagedService]
+	references = {
+		Reference[name = EventPublisher, interface = org.eclipse.smarthome.core.events.EventPublisher, policy = dynamic, cardinality = 1..1, target = null, bind = setEventPublisher, unbind = unsetEventPublisher]
+	}
+	located in bundle = org.eclipse.smarthome.io.transport.mqtt_0.8.0.201510020614 [103]
+]
+Component2: Component[
+	name = MQTT Connection Service
+	activate = activate
+	deactivate = deactivate
+	modified = 
+	configuration-policy = optional
+	factory = null
+	autoenable = true
+	immediate = true
+	implementation = org.openhab.io.transport.mqtt.MqttService
+	state = Unsatisfied
+	properties = {service.pid=org.openhab.mqtt}
+	serviceFactory = false
+	serviceInterface = [org.openhab.io.transport.mqtt.MqttService, org.osgi.service.cm.ManagedService]
+	references = {
+		Reference[name = EventPublisher, interface = org.openhab.core.events.EventPublisher, policy = dynamic, cardinality = 1..1, target = null, bind = setEventPublisher, unbind = unsetEventPublisher]
+	}
+	located in bundle = org.openhab.io.transport.mqtt_1.5.0.201404302143 [179]
+]  
+
+!ENTRY org.eclipse.equinox.ds 1 0 2015-10-07 17:39:47.741
+!MESSAGE Could not bind a reference of component org.eclipse.smarthome.ui. The reference is: Reference[name = ItemUIProvider, interface = org.eclipse.smarthome.ui.items.ItemUIProvider, policy = dynamic, cardinality = 0..n, target = null, bind = addItemUIProvider, unbind = removeItemUIProvider]
+
+!ENTRY org.eclipse.equinox.ds 1 0 2015-10-07 17:39:47.742
+!MESSAGE Could not bind a reference of component org.eclipse.smarthome.io.rest.sitemap. The reference is: Reference[name = SitemapProvider, interface = org.eclipse.smarthome.model.sitemap.SitemapProvider, policy = dynamic, cardinality = 0..n, target = null, bind = addSitemapProvider, unbind = removeSitemapProvider]
+
+!ENTRY org.eclipse.equinox.ds 1 0 2015-10-07 17:39:47.797
+!MESSAGE Could not bind a reference of component org.eclipse.smarthome.ui.chart. The reference is: Reference[name = ChartProvider, interface = org.eclipse.smarthome.ui.chart.ChartProvider, policy = dynamic, cardinality = 0..n, target = null, bind = addChartProvider, unbind = removeChartProvider]
+
+!ENTRY org.eclipse.equinox.ds 1 0 2015-10-07 17:39:51.792
+!MESSAGE Could not bind a reference of component org.openhab.persistence.jpa. The reference is: Reference[name = ItemRegistry, interface = org.openhab.core.items.ItemRegistry, policy = dynamic, cardinality = 0..1, target = null, bind = setItemRegistry, unbind = unsetItemRegistry]
+
+!ENTRY org.eclipse.equinox.cm 4 0 2015-10-07 17:39:52.275
+!MESSAGE Unable to load library 'TelldusCore': Native library (darwin/libTelldusCore.dylib) not found in resource path (runtime/server/plugins/org.eclipse.equinox.launcher_1.3.0.v20140415-2008.jar)
+!STACK 0
+java.lang.UnsatisfiedLinkError: Unable to load library 'TelldusCore': Native library (darwin/libTelldusCore.dylib) not found in resource path (runtime/server/plugins/org.eclipse.equinox.launcher_1.3.0.v20140415-2008.jar)
+	at com.sun.jna.NativeLibrary.loadLibrary(NativeLibrary.java:271)
+	at com.sun.jna.NativeLibrary.getInstance(NativeLibrary.java:398)
+	at com.sun.jna.Library$Handler.<init>(Library.java:147)
+	at com.sun.jna.Native.loadLibrary(Native.java:412)
+	at com.sun.jna.Native.loadLibrary(Native.java:391)
+	at org.openhab.binding.tellstick.internal.JNA$CLibrary.<clinit>(JNA.java:95)
+	at org.openhab.binding.tellstick.internal.TellstickGenericBindingProvider.resetTellstickListener(TellstickGenericBindingProvider.java:164)
+	at org.openhab.binding.tellstick.internal.TellstickBinding.resetTelldusProvider(TellstickBinding.java:100)
+	at org.openhab.binding.tellstick.internal.TellstickBinding.resetTellstick(TellstickBinding.java:376)
+	at org.openhab.binding.tellstick.internal.TellstickBinding.updated(TellstickBinding.java:166)
+	at org.eclipse.equinox.internal.cm.ManagedServiceTracker$1.run(ManagedServiceTracker.java:276)
+	at org.eclipse.equinox.internal.cm.SerializedTaskQueue$1.run(SerializedTaskQueue.java:36)
+
+!ENTRY org.eclipse.equinox.cm 4 0 2015-10-07 17:39:53.454
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+	at org.openhab.binding.xbmc.internal.XbmcActiveBinding.updated(XbmcActiveBinding.java:392)
+	at org.eclipse.equinox.internal.cm.ManagedServiceTracker$1.run(ManagedServiceTracker.java:276)
+	at org.eclipse.equinox.internal.cm.SerializedTaskQueue$1.run(SerializedTaskQueue.java:36)
+
+!ENTRY org.eclipse.equinox.cm 4 0 2015-10-07 17:39:53.467
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+	at org.openhab.binding.samsungac.internal.SamsungAcBinding.updated(SamsungAcBinding.java:191)
+	at org.eclipse.equinox.internal.cm.ManagedServiceTracker$1.run(ManagedServiceTracker.java:276)
+	at org.eclipse.equinox.internal.cm.SerializedTaskQueue$1.run(SerializedTaskQueue.java:36)
+
+!ENTRY org.eclipse.equinox.ds 1 0 2015-10-07 17:39:53.513
+!MESSAGE Could not bind a reference of component org.openhab.core.compat1x.chartproviderfactory. The reference is: Reference[name = ChartProvider, interface = org.openhab.ui.chart.ChartProvider, policy = dynamic, cardinality = 0..n, target = null, bind = addChartProvider, unbind = removeChartProvider]

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+
+    Copyright (c) 2014-2015 openHAB UG (haftungsbeschraenkt) and others.
+
+    All rights reserved. This program and the accompanying materials
+    are made available under the terms of the Eclipse Public License v1.0
+    which accompanies this distribution, and is available at
+    http://www.eclipse.org/legal/epl-v10.html
+
+-->
+<feature
+      id="org.openhab.feature.runtime"
+      label="openHAB Runtime"
+      version="2.0.0.201510060108"
+      provider-name="openHAB.org">
+
+   <description>
+      This features defines all bundles that form the openHAB runtime.
+   </description>
+
+   <copyright>
+      Copyright (c) 2010-2015, openHAB.org &lt;admin@openhab.org&gt;
+   </copyright>
+
+   <license url="%licenseURL">
+      %license
+   </license>
+
+   <plugin
+         id="org.openhab.core"
+         download-size="12"
+         install-size="19"
+         version="2.0.0.201510060108"
+         unpack="false"/>
+
+   <plugin
+         id="org.openhab.io.transport.serial"
+         download-size="486"
+         install-size="515"
+         version="2.0.0.201510060108"/>
+
+   <plugin
+         id="org.openhab.core.compat1x"
+         download-size="1125"
+         install-size="1348"
+         version="2.0.0.201510060108"
+         unpack="false"/>
+
+   <plugin
+         id="org.openhab.io.jetty"
+         download-size="6"
+         install-size="14"
+         version="2.0.0.201510060108"
+         unpack="false"/>
+
+   <plugin
+         id="org.openhab.core.init"
+         download-size="5"
+         install-size="6"
+         version="2.0.0.201510060108"
+         unpack="false"/>
+
+   <plugin
+         id="org.openhab.ui.dashboard"
+         download-size="279"
+         install-size="380"
+         version="2.0.0.201510060108"
+         unpack="false"/>
+
+   <plugin
+         id="org.openhab.io.rest.docs"
+         download-size="214"
+         install-size="625"
+         version="2.0.0.201510060108"
+         unpack="false"/>
+
+   <plugin
+         id="org.openhab.ui.classicui"
+         download-size="3"
+         install-size="2"
+         version="2.0.0.201510060108"
+         unpack="false"/>
+
+   <plugin
+         id="org.openhab.ui.paperui"
+         download-size="58"
+         install-size="60"
+         version="2.0.0.201510060108"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.smarthome.ui.paperui"
+         download-size="2608"
+         install-size="7907"
+         version="0.8.0.201509300835"
+         unpack="false"/>
+
+   <plugin
+         id="org.openhab.ui.iconset.classic"
+         download-size="1391"
+         install-size="1799"
+         version="2.0.0.201510060108"
+         unpack="false"/>
+
+</feature>
