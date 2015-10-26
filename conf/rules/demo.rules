@@ -41,21 +41,6 @@ rule "Initialize heating states"
 		postUpdate(Temperature_Setpoint, 22)
 end
 
-rule "Initialize contact states"
-	when 
-		System started
-	then
-		Windows?.members.forEach(window|
-			postUpdate(window, if(Math::random > 0.5) OPEN else CLOSED)
-		)
-end
-
-rule "Initialize Location"
-	when 
-		System started
-	then
-		DemoLocation.postUpdate(new PointType("52.5200066,13.4049540"))
-end
 
 rule "Set random room temperatures"
 	when 
@@ -83,4 +68,11 @@ when
   Item Weather_Temperature received update
 then
   postUpdate(Weather_LastUpdate, new DateTimeType())
+end
+
+rule "when frontdoor openes"
+when
+	Door_GF_Frontdoor changed
+then
+	postUpdate(mqttsw2,true) ON
 end
